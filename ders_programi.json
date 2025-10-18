@@ -1,0 +1,72 @@
+{
+  "hafta_tarih_araligi": "13 Ekim - 19 Ekim 2025",
+  "versiyon": 1.0,
+  "gunler": {
+    "Pazartesi": [
+      {
+        "name": "Anatomi I",
+        "code": "TIP101",
+        "classroom": "Amfi A",
+        "time": "09:00 - 11:00",
+        "instructor": "Prof. Dr. Ahmet Yılmaz"
+      },
+      {
+        "name": "Biyokimya",
+        "code": "TIP103",
+        "classroom": "Lab 2",
+        "time": "13:00 - 15:00",
+        "instructor": "Doç. Dr. Elif Kaya"
+      }
+    ],
+    "Salı": [
+      {
+        "name": "Histoloji ve Embriyoloji",
+        "code": "TIP105",
+        "classroom": "Amfi B",
+        "time": "10:00 - 12:00",
+        "instructor": "Prof. Dr. Zeynep Aydın"
+      }
+    ],
+    "Çarşamba": [
+      {
+        "name": "Tıbbi Biyoloji",
+        "code": "TIP102",
+        "classroom": "Amfi A",
+        "time": "09:00 - 11:00",
+        "instructor": "Dr. Öğr. Üyesi Can Mert"
+      },
+      {
+        "name": "Fizyoloji",
+        "code": "TIP104",
+        "classroom": "Lab 1",
+        "time": "14:00 - 16:00",
+        "instructor": "Prof. Dr. Selma Çelik"
+      },
+      {
+        "name": "Davranış Bilimleri",
+        "code": "TIP106",
+        "classroom": "Derslik 3",
+        "time": "16:00 - 17:00",
+        "instructor": "Uzm. Psk. Defne Oral"
+      }
+    ],
+    "Perşembe": [
+      {
+        "name": "Anatomi I",
+        "code": "TIP101",
+        "classroom": "Amfi A",
+        "time": "10:00 - 12:00",
+        "instructor": "Prof. Dr. Ahmet Yılmaz"
+      }
+    ],
+    "Cuma": [
+      {
+        "name": "Fizyoloji",
+        "code": "TIP104",
+        "classroom": "Lab 1",
+        "time": "13:00 - 15:00",
+        "instructor": "Prof. Dr. Selma Çelik"
+      }
+    ]
+  }
+}
