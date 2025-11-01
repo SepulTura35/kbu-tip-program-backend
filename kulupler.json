@@ -1,0 +1,988 @@
+{
+  "ogrenciKulupleri": [
+    {
+      "kulupAdi": "SANATLA TERAPİ VE İYİ OLUŞ KULÜBÜ",
+      "baskan": "SELCAN TUNÇ",
+      "akademikDanisman": "Doç.Dr. EDA ÖZ ÇELİKBAŞ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎨"
+    },
+    {
+      "kulupAdi": "STEAMART KULÜBÜ",
+      "baskan": "METİN BAYAR",
+      "akademikDanisman": "Dr.Öğr.Üyesi SERDAR KUL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🔬"
+    },
+    {
+      "kulupAdi": "FİNANS VE BANKACILIK KULÜBÜ",
+      "baskan": "İREM ERBEK",
+      "akademikDanisman": "Dr.Öğr.Üyesi FEYZULLAH ESAD ŞEKKELİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💰"
+    },
+    {
+      "kulupAdi": "MAARİF KULÜBÜ",
+      "baskan": "SAYED AHMAD WALID OBAIDI",
+      "akademikDanisman": "Öğr.Gör. ÜMİT TOPCUOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎓"
+    },
+    {
+      "kulupAdi": "CAN SAĞLIĞI KULÜBÜ",
+      "baskan": "BARTU ÇELİK",
+      "akademikDanisman": "Dr.Öğr.Üyesi AYŞEGÜL KARACA DEDEOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "❤️"
+    },
+    {
+      "kulupAdi": "Engelsiz Yaşam Topluluğu",
+      "baskan": "SEHER İMANUR",
+      "akademikDanisman": "Dr.Öğr.Üyesi Tuba ZOROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "♿"
+    },
+    {
+      "kulupAdi": "Fizyo Sağlık Topluluğu",
+      "baskan": "CEMRE ÇAKAR",
+      "akademikDanisman": "Dr.Öğr.Üyesi Tuba ZOROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🩺"
+    },
+    {
+      "kulupAdi": "Fizyobilim Topluluğu",
+      "baskan": "FURKAN ŞARLI",
+      "akademikDanisman": "Dr.Öğr.Üyesi Tuba ZOROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧬"
+    },
+    {
+      "kulupAdi": "GELİŞİM, PROJE VE TEKNOLOJİ KULÜBÜ",
+      "baskan": "ELİF RÜMEYSA BAŞAK",
+      "akademikDanisman": "Prof.Dr. MELİK ÇETİN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🚀"
+    },
+    {
+      "kulupAdi": "İNOVASYON VE GELİŞİM KULÜBÜ",
+      "baskan": "ABDULRAHMAN ABDALMALIK",
+      "akademikDanisman": "Prof.Dr. İBRAHİM ÇAYIROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💡"
+    },
+    {
+      "kulupAdi": "İNOVATİF İLETİŞİM VE LİDERLİK KULÜBÜ",
+      "baskan": "YILMAZ OĞUZ",
+      "akademikDanisman": "Doç.Dr. KEMAL AVCI",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🗣️"
+    },
+    {
+      "kulupAdi": "Kimya Kulübü",
+      "baskan": "BÜŞRA SEZER",
+      "akademikDanisman": "Doç.Dr. YASEMİN TÜMER",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧪"
+    },
+    {
+      "kulupAdi": "ASTRONOMİ VE OPTİK ALETLER GELİŞTİRME KULÜBÜ",
+      "baskan": "RÜVEYDA UZMALİ",
+      "akademikDanisman": "Öğr.Gör. GÜL NİHAL YEŞİLDAL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🔭"
+    },
+    {
+      "kulupAdi": "GÖKTÜRKLER TEKNOLOJİ KULÜBÜ",
+      "baskan": "ABDULKADİR AKÇAY",
+      "akademikDanisman": "Prof.Dr. MUHAMMET KAYFECİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💻"
+    },
+    {
+      "kulupAdi": "ORTOPEDİK PROTEZ VE ORTEZ KULÜBÜ",
+      "baskan": "YELİZ KARAMAN",
+      "akademikDanisman": "Öğr.Gör. HÜLYA ADMIŞ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🦾"
+    },
+    {
+      "kulupAdi": "KARİYER TOPLULUĞU",
+      "baskan": "TAHA DEMİR",
+      "akademikDanisman": "Öğr.Gör. ABDULKADİR ILGAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📈"
+    },
+    {
+      "kulupAdi": "PARAMEDİK TOPLULUĞU",
+      "baskan": "SEZİN YÜCE",
+      "akademikDanisman": "Öğr.Gör. ABDULKADİR ILGAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🚑"
+    },
+    {
+      "kulupAdi": "SAĞLIKLI YAŞAM TOPLULUĞU",
+      "baskan": "AYŞEGÜL DENİZ",
+      "akademikDanisman": "Öğr.Gör. ABDULKADİR ILGAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧘"
+    },
+    {
+      "kulupAdi": "ARAMA KURTARMA TOPLULUĞU",
+      "baskan": "ELİF YILMAZ",
+      "akademikDanisman": "Öğr.Gör. ABDULKADİR ILGAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⛑️"
+    },
+    {
+      "kulupAdi": "BULUT BİLİŞİMLERİ KULÜBÜ",
+      "baskan": "EMİRHAN KÜÇÜK",
+      "akademikDanisman": "Dr.Öğr.Üyesi MUHAMMED SALİH GÜL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "☁️"
+    },
+    {
+      "kulupAdi": "PSİKOLOJİ KULÜBÜ",
+      "baskan": "TALHA MUHAMMET HACISALİHOĞLU",
+      "akademikDanisman": "Dr.Öğr.Üyesi KADİR YILMAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧠"
+    },
+    {
+      "kulupAdi": "KBÜ SELAM KULÜBÜ",
+      "baskan": "ABDULRAHMAN MAEEN QAID AL-HABBARI",
+      "akademikDanisman": "Arş.Gör. AHMET ZİYAÜDDİN CERAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👋"
+    },
+    {
+      "kulupAdi": "MEDENİYET İNŞASI KULÜBÜ",
+      "baskan": "SAMIULLAH BAJGAHI",
+      "akademikDanisman": "Dr.Öğr.Üyesi FEHMİ ÇİÇEK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏛️"
+    },
+    {
+      "kulupAdi": "TeknoFest Kulübü",
+      "baskan": "ENES GÖÇMEN",
+      "akademikDanisman": "Öğr.Gör. BAHADIR FURKAN KINACI",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "✈️"
+    },
+    {
+      "kulupAdi": "Dijital Dönüşüm ve İnovasyon Kulübü",
+      "baskan": "EMİRHAN CEYLAN",
+      "akademikDanisman": "Dr.Öğr.Üyesi İSA AVCI",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🔄"
+    },
+    {
+      "kulupAdi": "TEDx Karabük Kulübü",
+      "baskan": "GÖKHAN TUGAY KÖKSAL",
+      "akademikDanisman": "Dr.Öğr.Üyesi MUSTAFA POLAT",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "❌"
+    },
+    {
+      "kulupAdi": "DEZENFORMASYONLA MÜCADELE KULÜBÜ",
+      "baskan": "GÜLBAHAR ÖZYEŞİL",
+      "akademikDanisman": "Öğr.Gör. HÜSEYİN KURT",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📰"
+    },
+    {
+      "kulupAdi": "DİJİTAL KÜLTÜR VE KURGUSAL EVRENLER KULÜBÜ",
+      "baskan": "ALPEREN UMUT ÇUBUKCU",
+      "akademikDanisman": "Arş.Gör. HİLAL SANSAR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌌"
+    },
+    {
+      "kulupAdi": "DART BACCE VE BOWLİNG",
+      "baskan": "HİLAL BÜŞRA YÜCE",
+      "akademikDanisman": "Öğr.Gör. HARUN ÖZDEMİR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎯"
+    },
+    {
+      "kulupAdi": "GEÇERKEN KULÜBÜ",
+      "baskan": "NİSA KAHVECİ",
+      "akademikDanisman": "Öğr.Gör. HİKMET UBEYD BOYDAK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🚶"
+    },
+    {
+      "kulupAdi": "MEDENİYET ELÇİLERİ ÖĞRENCİ KULÜBÜ",
+      "baskan": "AHU LEYLA YAMANTELLİ",
+      "akademikDanisman": "Dr.Öğr.Üyesi ABDULLAH YAKŞİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🕊️"
+    },
+    {
+      "kulupAdi": "GİRİŞİMCİ MÜHENDİSLER KULÜBÜ",
+      "baskan": "SAMET KEÇECİ",
+      "akademikDanisman": "Arş.Gör. TAHSİN HAKTANIR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💼"
+    },
+    {
+      "kulupAdi": "OPTİSYENLİK KULÜBÜ",
+      "baskan": "SÜMEYYE YAĞMUR KÜÇÜKSEYMEN",
+      "akademikDanisman": "Öğr.Gör. MEHMET DAĞ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👓"
+    },
+    {
+      "kulupAdi": "MODERN ARAŞTIRMALAR VE GELİŞİM KULÜBÜ",
+      "baskan": "IŞIL AYFER İNAL",
+      "akademikDanisman": "Dr.Öğr.Üyesi HANDAN YERLİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📈"
+    },
+    {
+      "kulupAdi": "KBÜ SİBER",
+      "baskan": "FAHREDDİN KÜÇÜKYILMAZ",
+      "akademikDanisman": "Dr.Öğr.Üyesi CİHAN BAYRAKTAR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🛡️"
+    },
+    {
+      "kulupAdi": "GELİŞİM KATALİZÖRÜ KULÜBÜ",
+      "baskan": "BERKAY ŞENTÜRK",
+      "akademikDanisman": "Doç.Dr. NURETTİN ELTUĞRAL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚡"
+    },
+    {
+      "kulupAdi": "MATERİALS AND TECHNOLOGY (MATECH)",
+      "baskan": "ŞEVVAL ARSLAN",
+      "akademikDanisman": "Prof.Dr. HAYRETTİN AHLATCI",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏗️"
+    },
+    {
+      "kulupAdi": "FİZYOTERAPİ VE REHABİLİTASYON",
+      "baskan": "DERYA BIÇAKLAR",
+      "akademikDanisman": "Dr.Öğr.Üyesi Tuba ZOROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💪"
+    },
+    {
+      "kulupAdi": "MAKER",
+      "baskan": "SULTAN NUR CİNBAŞ",
+      "akademikDanisman": "Dr.Öğr.Üyesi KENAN IŞIK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🛠️"
+    },
+    {
+      "kulupAdi": "AVUCUMDAKİ NEFES EBELİK KULÜBÜ",
+      "baskan": "HİLAL KAÇAN",
+      "akademikDanisman": "Doç.Dr. REYHAN AYDIN DOĞAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👶"
+    },
+    {
+      "kulupAdi": "TÜRK DÜNYASI GENÇLİK KULÜBÜ",
+      "baskan": null,
+      "akademikDanisman": "Arş.Gör. MUHAMMED KASIM KAVAK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🇹🇷"
+    },
+    {
+      "kulupAdi": "Dijital Şiddetle Mücadale Kulübü",
+      "baskan": "BEDRAN AKCAN",
+      "akademikDanisman": "Öğr.Gör.Dr. Hülya ÖZÇAĞLAR EROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🚫"
+    },
+    {
+      "kulupAdi": "BİLGİ VE DEĞERLER KULÜBÜ",
+      "baskan": "REYHAN ÖZER",
+      "akademikDanisman": "Dr.Öğr.Üyesi YASEMİN BOZKURT ÖZYALÇIN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚖️"
+    },
+    {
+      "kulupAdi": "GÜLNİSA GENÇLİK KULÜBÜ",
+      "baskan": "FATMA ZEHRA TEKİN",
+      "akademikDanisman": "Arş.Gör. RUMEYSA KÜSKÜ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌹"
+    },
+    {
+      "kulupAdi": "Nightingale Hemşirelik Kulübü",
+      "baskan": "ZEYNEP ÇETİNEL",
+      "akademikDanisman": "Dr.Öğr.Üyesi YELİZ TAŞDELEN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👩‍⚕️"
+    },
+    {
+      "kulupAdi": "Mühendislik ve İleri Teknoloji Kulübü",
+      "baskan": "MEVLÜDİYE ÇETİN",
+      "akademikDanisman": "Prof.Dr. İSMAİL ESEN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚙️"
+    },
+    {
+      "kulupAdi": "BİLİMSEL ARAŞTIRMALAR KULÜBÜ",
+      "baskan": "TUĞBA TEKİN",
+      "akademikDanisman": "Dr.Öğr.Üyesi SERAP ARSLAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🔬"
+    },
+    {
+      "kulupAdi": "GENÇ İLETİŞİMCİLER KULÜBÜ",
+      "baskan": "ZEHRA TÜRKER",
+      "akademikDanisman": "Doç.Dr. ARZU KALAFAT ÇAT",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💬"
+    },
+    {
+      "kulupAdi": "Türkoloji Kulübü",
+      "baskan": "YUNUS EMRE YIĞIN",
+      "akademikDanisman": "Prof.Dr. AHMET SAİT CANDAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🇹🇷"
+    },
+    {
+      "kulupAdi": "SOSYALFEST KULÜBÜ",
+      "baskan": "DUYGU AKPINAR",
+      "akademikDanisman": "Doç.Dr. UTKU AYBUDAK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎉"
+    },
+    {
+      "kulupAdi": "DİL VE SANAT KULÜBÜ",
+      "baskan": "YUSUF EREN PORTAKAL",
+      "akademikDanisman": "Dr.Öğr.Üyesi SELAMİ KURT",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🗣️"
+    },
+    {
+      "kulupAdi": "GENÇ GÖNÜLLÜLER KULÜBÜ",
+      "baskan": "SERRANUR ÖZDEMİR",
+      "akademikDanisman": "Öğr.Gör. MUHAMMET GİRGİN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤝"
+    },
+    {
+      "kulupAdi": "AI4KBU KULÜBÜ",
+      "baskan": "MEHMET TUNA",
+      "akademikDanisman": "Dr.Öğr.Üyesi DOĞAN URGUN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤖"
+    },
+    {
+      "kulupAdi": "STRATEJİK İLİŞKİLER VE İMAJ GELİŞTİRME KULÜBÜ",
+      "baskan": null,
+      "akademikDanisman": "Arş.Gör. ABDULKADİR KURTULAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌐"
+    },
+    {
+      "kulupAdi": "İNSAN HAK VE HÜRRİYETLERİ KULÜBÜ",
+      "baskan": "FURKAN ENES MUTLU",
+      "akademikDanisman": "Arş.Gör. Ufuk DEVECİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🕊️"
+    },
+    {
+      "kulupAdi": "Turizm Rehberliği Kulübü",
+      "baskan": "SİBEL GEDİK",
+      "akademikDanisman": "Dr.Öğr.Üyesi UMUT KADİR OĞUZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🗺️"
+    },
+    {
+      "kulupAdi": "SANAT TARİHİ KULÜBÜ",
+      "baskan": "ENES CİHAD İLHAN",
+      "akademikDanisman": "Arş.Gör. CELAL ESER",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏛️"
+    },
+    {
+      "kulupAdi": "Game Factory Clubs",
+      "baskan": "HALİL TALHA AYDINLI",
+      "akademikDanisman": "Doç.Dr. KASIM ÖZACAR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎮"
+    },
+    {
+      "kulupAdi": "MediKariyer Kulübü",
+      "baskan": "MÜŞERREF DERE",
+      "akademikDanisman": "Öğr.Gör. ABDULKADİR ILGAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧑‍⚕️"
+    },
+    {
+      "kulupAdi": "Felsefe Kulübü",
+      "baskan": "FAHRETTİN AHMET SERT",
+      "akademikDanisman": "Arş.Gör. YÜKSEL SARAÇ YEŞİLADA",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤔"
+    },
+    {
+      "kulupAdi": "FİNANS VE RİSK YÖNETİMİ KULÜBÜ",
+      "baskan": "UĞUR ŞAHİN",
+      "akademikDanisman": "Dr.Öğr.Üyesi OYTUN HAÇARIZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📊"
+    },
+    {
+      "kulupAdi": "DIŞ TİCARET ELÇİLERİ KULÜBÜ",
+      "baskan": "EBRAR OĞUZ",
+      "akademikDanisman": "Dr.Öğr.Üyesi AYŞEGÜL KARACA DEDEOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🚢"
+    },
+    {
+      "kulupAdi": "Genç TDV",
+      "baskan": "YUSUF TAHA ZEYREK",
+      "akademikDanisman": "Dr.Öğr.Üyesi GÖKHAN ORUÇ ÖNALAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤲"
+    },
+    {
+      "kulupAdi": "MODERN DİLLER KULÜBÜ",
+      "baskan": "HAKAN ACAR",
+      "akademikDanisman": "Öğr.Gör. ALİ KUBAT",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌍"
+    },
+    {
+      "kulupAdi": "Sürdürülebirlik ve Doğa Koruma",
+      "baskan": "ALİ ÖNGÜRÜ",
+      "akademikDanisman": "Prof.Dr. CUMHUR GÜNGÖROĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "♻️"
+    },
+    {
+      "kulupAdi": "TÜRK DEVLETLERİ TEŞKİLATI KULÜBÜ",
+      "baskan": "YUSUF TEKE",
+      "akademikDanisman": "Prof.Dr. MÜCAHİT COŞKUN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤝"
+    },
+    {
+      "kulupAdi": "GÖNÜLLÜ HEKİMLER BİRLİĞİ KULÜBÜ",
+      "baskan": "SUDE TUNA",
+      "akademikDanisman": "Dr.Öğr.Üyesi KADER AZLAĞ PEKİNCE",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚕️"
+    },
+    {
+      "kulupAdi": "LÖSEV KULÜBÜ",
+      "baskan": "KERİM MERT AY",
+      "akademikDanisman": "Dr.Öğr.Üyesi ELİF GİZEM KARAOĞLU KİRENLİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧡"
+    },
+    {
+      "kulupAdi": "Kalite Topluluğu (Unikal)",
+      "baskan": "SONGÜL YILMAZ",
+      "akademikDanisman": "Doç.Dr. BÜLENT ORAL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💯"
+    },
+    {
+      "kulupAdi": "UNIKA SATIVUS",
+      "baskan": "MUHAMMED YILDIZ",
+      "akademikDanisman": "Arş.Gör. SEYİT ALİ KARA",
+      "iletisimTelefonu": "5324119677",
+      "epostaAdresi": "cevatozarpa@karabuk.edu.tr",
+      "emoji": "🌿"
+    },
+    {
+      "kulupAdi": "Matematik Etkinlik Kulübü",
+      "baskan": "MUHAMMED YAVUZ",
+      "akademikDanisman": "Arş.Gör. MERVE NUR BARAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧮"
+    },
+    {
+      "kulupAdi": "BAYKUŞ KULÜBÜ",
+      "baskan": "YASEMİN GÜLER",
+      "akademikDanisman": "Arş.Gör. AHMET AÇIL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🦉"
+    },
+    {
+      "kulupAdi": "MAĞARA ARAŞTIRMALARI KULÜBÜ",
+      "baskan": "SERDAR AKCAALAN",
+      "akademikDanisman": "Doç.Dr. SEVDA COŞKUN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏞️"
+    },
+    {
+      "kulupAdi": "ÜNİVERSİTELİ AKTİF GENÇLİK KULÜBÜ",
+      "baskan": "ALPEREN ZONGULDAK",
+      "akademikDanisman": "Arş.Gör.Dr. MEHMET TAYYİP ÖZDEMİR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💥"
+    },
+    {
+      "kulupAdi": "İNOVASYON DENGE ESTETİK AHENK KULÜBÜ",
+      "baskan": "BATUHAN BOZDEMİR",
+      "akademikDanisman": "Doç.Dr. RAŞİT ESEN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "✨"
+    },
+    {
+      "kulupAdi": "OMBUDSMANLIK",
+      "baskan": null,
+      "akademikDanisman": null,
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚖️"
+    },
+    {
+      "kulupAdi": "DÜŞÜN DOKUN DEĞİŞTİR",
+      "baskan": "SEMİH GÜVEN",
+      "akademikDanisman": "Doç.Dr. MEHMET KIRLIOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👐"
+    },
+    {
+      "kulupAdi": "TECHNİCAL EXPERİENCE CLUP",
+      "baskan": "ELANUR İLTER",
+      "akademikDanisman": "Dr.Öğr.Üyesi TUĞRUL BAYRAKTAR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🛠️"
+    },
+    {
+      "kulupAdi": "Ferdi ve Takım Sporları Kulübü",
+      "baskan": "TOYGAR YAŞARTÜRK",
+      "akademikDanisman": "Öğr.Gör. HARUN ÖZDEMİR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚽"
+    },
+    {
+      "kulupAdi": "COĞRAFİ BİLİMLER KULÜBÜ",
+      "baskan": "HATİCE GÜLSÜM TEK",
+      "akademikDanisman": "Dr.Öğr.Üyesi CEMİL İRDEM",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌍"
+    },
+    {
+      "kulupAdi": "AKADEMİK DÜŞÜNCE EĞİTİM MEDENİYET KULÜBÜ",
+      "baskan": "SİNAN ÇELİK",
+      "akademikDanisman": "Dr.Öğr.Üyesi MUHAMMED ENES SAYIN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎓"
+    },
+    {
+      "kulupAdi": "TIBBİ ARAŞTIRMALAR KULÜBÜ",
+      "baskan": "EFE YALÇIN",
+      "akademikDanisman": "Dr.Öğr.Üyesi Namık BİLİCİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🔬"
+    },
+    {
+      "kulupAdi": "SESLİ DÜŞÜNME KULÜBÜ",
+      "baskan": "ÖZGE ATEŞ",
+      "akademikDanisman": "Öğr.Gör. MESUT DOĞAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎤"
+    },
+    {
+      "kulupAdi": "GELİŞEN ÇOCUK KULÜBÜ",
+      "baskan": "SENA BERRA KAYABAŞI",
+      "akademikDanisman": "Arş.Gör.Dr. FEYZA YALMAN ÇETİNKAYA",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🧸"
+    },
+    {
+      "kulupAdi": "OSMANLI KÜLTÜR VE MEDENİYETİ KULÜBÜ",
+      "baskan": "FURKAN FATİH AYDIN",
+      "akademikDanisman": "Dr.Öğr.Üyesi Tarık ÇELİK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌙"
+    },
+    {
+      "kulupAdi": "SAVUNMA TEKNOLOJİLERİ KULÜBÜ(KARSAV)",
+      "baskan": "ÖNDER KALKAN",
+      "akademikDanisman": "Prof.Dr. İSMAİL ESEN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🛡️"
+    },
+    {
+      "kulupAdi": "DAMLA TOPLULUĞU KULÜBÜ",
+      "baskan": "BURAK BARIŞ BİL",
+      "akademikDanisman": "Doç.Dr. MUSTAFA YILDIZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💧"
+    },
+    {
+      "kulupAdi": "SATRANÇ KULÜBÜ",
+      "baskan": "ŞEVKET EFE KORKMAZ",
+      "akademikDanisman": "Dr.Öğr.Üyesi CEMİL İRDEM",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "♟️"
+    },
+    {
+      "kulupAdi": "Kadın ve Demokrasi Gençlik Kulübü (KADEM)",
+      "baskan": "HAVVA CEBECİOĞLU",
+      "akademikDanisman": "Öğr.Gör. ÜMİT TOPCUOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👩‍⚖️"
+    },
+    {
+      "kulupAdi": "GASTRONOMİ KULÜBÜ",
+      "baskan": "AHMET EREN BALTA",
+      "akademikDanisman": "Dr.Öğr.Üyesi SİBEL AYYILDIZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🍳"
+    },
+    {
+      "kulupAdi": "DEĞERLER EĞİTİMİ KULÜBÜ",
+      "baskan": "EDANUR DEMİR",
+      "akademikDanisman": "Prof.Dr. Hamdi KIZILER",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💎"
+    },
+    {
+      "kulupAdi": "GENÇ YEŞİLAY KULÜBÜ",
+      "baskan": "BARIŞ ERGÜL",
+      "akademikDanisman": "Arş.Gör. MUSTAFA EMİN AKÇİN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌙"
+    },
+    {
+      "kulupAdi": "BİYOMEDİKAL TEKNOLOJİLERİ KULÜBÜ",
+      "baskan": "HİVDANUR KORKMAZ",
+      "akademikDanisman": "Dr.Öğr.Üyesi ABDULLAH BİLAL AYGÜN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🩺"
+    },
+    {
+      "kulupAdi": "SİNEMA KULÜBÜ",
+      "baskan": "YASİN RAMAZAN ŞAHİN",
+      "akademikDanisman": "Öğr.Gör.Dr. Ülkü Hayriye İNCİ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎬"
+    },
+    {
+      "kulupAdi": "YENİLER KULÜBÜ",
+      "baskan": null,
+      "akademikDanisman": "Doç.Dr. İBRAHİM HAKKI İMAMOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌟"
+    },
+    {
+      "kulupAdi": "GELENEKSEL SPORLAR KULÜBÜ",
+      "baskan": "NEVA ÇAKIR",
+      "akademikDanisman": "Dr.Öğr.Üyesi MUSTAFA YILMAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏹"
+    },
+    {
+      "kulupAdi": "HAYVAN HAKLARI KULÜBÜ",
+      "baskan": "NİDA BERRA ATAÇ",
+      "akademikDanisman": "Doç.Dr. ÖMÜR DÜNYA ÇAKMAKLI AKÇA",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🐾"
+    },
+    {
+      "kulupAdi": "ARKEOLOJİ KULÜBÜ",
+      "baskan": "SATI NUR CAN",
+      "akademikDanisman": "Arş.Gör. RAKİYE NAMAL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏺"
+    },
+    {
+      "kulupAdi": "TARİH KULÜBÜ",
+      "baskan": "FATMANUR ZENGİN",
+      "akademikDanisman": "Dr.Öğr.Üyesi SAMİ AĞAOĞLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📜"
+    },
+    {
+      "kulupAdi": "KİTAP KULÜBÜ",
+      "baskan": "GÖKÇE DALKILIÇ",
+      "akademikDanisman": "Dr.Öğr.Üyesi ÖMER ÖZDEMİR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📚"
+    },
+    {
+      "kulupAdi": "ULUSLARARASI İLİŞKİLER KULÜBÜ",
+      "baskan": "MERVE KAYRETLİ",
+      "akademikDanisman": "Dr.Öğr.Üyesi Yusuf Mehmet AKAY",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🌐"
+    },
+    {
+      "kulupAdi": "TASARIM İSTASYONU KULÜBÜ",
+      "baskan": "GÖKTUĞ KURUTopluluğun",
+      "akademikDanisman": "Prof.Dr. AYSUN ÖZKÖSE",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎨"
+    },
+    {
+      "kulupAdi": "EDEBİYAT KULÜBÜ",
+      "baskan": "BERAT KAYA ÇELİK",
+      "akademikDanisman": "Dr.Öğr.Üyesi SELİM GÖK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "✒️"
+    },
+    {
+      "kulupAdi": "ARTI KARİYER KULÜBÜ",
+      "baskan": "GÖRKEM OLGUN",
+      "akademikDanisman": "Öğr.Gör. HAMZA YETİK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💼"
+    },
+    {
+      "kulupAdi": "KIZILAY KULÜBÜ",
+      "baskan": "İBRAHİM MUHAMMET TÜMÜR",
+      "akademikDanisman": "Öğr.Gör. ÖMER ÇÖLOVA",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🩸"
+    },
+    {
+      "kulupAdi": "SOSYOLOJİ KULÜBÜ",
+      "baskan": "FARID GASIMOV",
+      "akademikDanisman": "Prof.Dr. Adem SAĞIR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "kulupAdi": "GENÇ GİRİŞİMCİLER KULÜBÜ",
+      "baskan": "SILA YILMAZ",
+      "akademikDanisman": "Prof.Dr. Ramazan UYGUN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💡"
+    },
+    {
+      "kulupAdi": "İLAHİYAT KULÜBÜ",
+      "baskan": "BEYZA NUR CERAN",
+      "akademikDanisman": "Arş.Gör. MAHMUT ESAT ÖZCAN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🕌"
+    },
+    {
+      "kulupAdi": "Teknoloji ve Girişimcilik Kulübü",
+      "baskan": "MUHAMMET EREN DOĞAN",
+      "akademikDanisman": "Doç.Dr. SAMET USLU",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🚀"
+    },
+    {
+      "kulupAdi": "Institute of Electrical and Electronics Engineers",
+      "baskan": "SEZAİ KAĞAN TOPCUOĞLU",
+      "akademikDanisman": "Prof.Dr. NECMİ SERKAN TEZEL",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚡"
+    },
+    {
+      "kulupAdi": "ENDÜSTRİ MÜHENDİSLİĞİ KULÜBÜ",
+      "baskan": "SENA YILMAZ",
+      "akademikDanisman": "Dr.Öğr.Üyesi MUHARREM ÜNVER",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏭"
+    },
+    {
+      "kulupAdi": "MÜZİK KULÜBÜ",
+      "baskan": "ULAŞ AKGÜL",
+      "akademikDanisman": "Arş.Gör. FURKAN YILMAZ",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎵"
+    },
+    {
+      "kulupAdi": "İŞLETME KULÜBÜ",
+      "baskan": "ELİF ÇAMBAŞI",
+      "akademikDanisman": "Dr.Öğr.Üyesi ŞAHAY OK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "📊"
+    },
+    {
+      "kulupAdi": "BİLİŞİM TEKNOLOJİLERİ VE YAZILIM KULÜBÜ(BİLİŞİM TEKNOLOJİLERİ)",
+      "baskan": "CEMRE GÜMÜŞ",
+      "akademikDanisman": "Dr.Öğr.Üyesi YASİN ORTAKCI",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💻"
+    },
+    {
+      "kulupAdi": "MEKATRONİK KULÜBÜ",
+      "baskan": "FURKAN KARAÇOBAN",
+      "akademikDanisman": "Dr.Öğr.Üyesi GÖKHAN GÜNGÖR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🦾"
+    },
+    {
+      "kulupAdi": "SPOR KULÜBÜ",
+      "baskan": "MUSTAFA ÇEPER KARAYILAN",
+      "akademikDanisman": "Dr.Öğr.Üyesi MAHMUT ESAT UZUN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏀"
+    },
+    {
+      "kulupAdi": "HALK DANSLARI KULÜBÜ",
+      "baskan": "AYŞE TUNÇ",
+      "akademikDanisman": "Prof.Dr. HASAN GÖKKAYA",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "💃"
+    },
+    {
+      "kulupAdi": "TİYATRO KULÜBÜ",
+      "baskan": "BEYZA KORKMAZ",
+      "akademikDanisman": "Prof.Dr. MÜCAHİT COŞKUN",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🎭"
+    },
+    {
+      "kulupAdi": "DOĞA SPORLARI KULÜBÜ",
+      "baskan": "HABİBE BUSE ELVAN",
+      "akademikDanisman": "Doç.Dr. NESLİHAN AKÇAY",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🏞️"
+    },
+    {
+      "kulupAdi": "SOSYAL SORUMLULUK VE DAYANIŞMA KULÜBÜ",
+      "baskan": "SALİM MERT ÖZALTUN",
+      "akademikDanisman": "Arş.Gör. ÖMER KARTALTEPE",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤝"
+    },
+    {
+      "kulupAdi": "BİLİMTEY BİLİM KULÜBÜ",
+      "baskan": "PINAR İÇEN",
+      "akademikDanisman": "Dr.Öğr.Üyesi MEHMET ÇOLAK",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🔬"
+    },
+    {
+      "kulupAdi": "Makine Bilişim Teknolojileri Kulübü(MABİTEK)",
+      "baskan": "VEJDET ÇUBUKÇUOĞLU",
+      "akademikDanisman": "Arş.Gör. SALİHA ÖZGÜNGÖR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "⚙️"
+    },
+    {
+      "kulupAdi": "ROBOT KULÜBÜ",
+      "baskan": "HALİL KAYA ŞANLI",
+      "akademikDanisman": "Prof.Dr. RAİF BAYIR",
+      "iletisimTelefonu": null,
+      "epostaAdresi": null,
+      "emoji": "🤖"
+    }
+  ]
+}
