@@ -1,0 +1,105 @@
+{
+  "baslik": "KARABÜK ÜNİVERSİTESİ 2025-2026 EĞİTİM ÖĞRETİM YILI YABANCI DİLLER YÜKSEKOKULU AKADEMİK TAKVİMİ",
+  "sflCalendar": {
+    "baslik": "2025 - 2026 SFL Academic Calendar",
+    "fallTerm": [
+      {
+        "date": "08.09.2025",
+        "day": "Monday",
+        "event": "Mandatory Placement Test¹ and Proficiency Exam²",
+        "isVurgulu": true,
+        "emoji": "❗"
+      },
+      {
+        "date": "08.09.2025",
+        "day": "Monday",
+        "event": "Start of Lessons",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "date": "16.01.2026",
+        "day": "Friday",
+        "event": "End of Lessons",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ],
+    "springTerm": [
+      {
+        "date": "02.02.2026",
+        "day": "Monday",
+        "event": "Start of Lessons",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "date": "19.06.2026",
+        "day": "Friday",
+        "event": "End of Lessons",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ]
+  },
+  "ydyCalendar": {
+    "baslik": "2025 - 2026 YDY Akademik Takvimi",
+    "guzDonemi": [
+      {
+        "tarih": "08.09.2025",
+        "gun": "Pazartesi",
+        "islem": "Zorunlu Seviye Tespit Sınavı¹ ve Muafiyet Sınavı²",
+        "isVurgulu": true,
+        "emoji": "❗"
+      },
+      {
+        "tarih": "08.09.2025",
+        "gun": "Pazartesi",
+        "islem": "Derslerin Başlangıcı",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "tarih": "16.01.2026",
+        "gun": "Cuma",
+        "islem": "Derslerin Bitişi",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ],
+    "baharDonemi": [
+      {
+        "tarih": "02.02.2026",
+        "gun": "Pazartesi",
+        "islem": "Derslerin Başlangıcı",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "tarih": "19.06.2026",
+        "gun": "Cuma",
+        "islem": "Derslerin Bitişi",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ]
+  },
+  "notlar": [
+    {
+      "dil": "en",
+      "metin": "¹ All students are required to take the Placement Test. Students who do not take this test cannot begin the English preparatory program."
+    },
+    {
+      "dil": "en",
+      "metin": "² Students who are placed at Level 4 (B1+/B2) based on their Placement Test results are eligible to take the Proficiency Exam. Please check the Exam Calendar page under the Student menu at sfl.karabuk.edu.tr for exam dates and further details."
+    },
+    {
+      "dil": "tr",
+      "metin": "¹ Seviye Tespit Sınavına tüm öğrencilerin katılımı zorunludur. Bu sınava katılmayan öğrenciler, İngilizce hazırlık programında eğitime başlayamazlar."
+    },
+    {
+      "dil": "tr",
+      "metin": "² Seviye Tespit Sınavı sonucunda 4. Seviye (B1+/B2) olarak değerlendirilen öğrenciler, Muafiyet Sınavına girmeye hak kazanırlar. Sınav tarihleri ve diğer detaylar için sfl.karabuk.edu.tr adresinde yer alan Öğrenci menüsündeki Sınav Takvimi sayfasını takip ediniz."
+    }
+  ]
+}
