@@ -1,0 +1,120 @@
+{
+  "baslik": "KARABÜK ÜNİVERSİTESİ TIP FAKÜLTESİ 2025-2026 EĞİTİM ÖĞRETİM YILI AKADEMİK TAKVİMİ",
+  "notlar": [
+    "* Oryantasyon haftası içinde Dönem 4, 5 ve 6 için iş sağlığı ve güvenliği eğitimi Karabük Eğitim Araştırma Hastanesi tarafından uygun görülen zamanda verilecektir.",
+    "** Dönem 1,2,3, 4, 5 için kurul sınavları, ders kurulu sınavları ile yılsonu ve bütünleme sınavları ilgili dönemlerin ders programlarında belirtilen tarih ve saatlerde yapılır.",
+    "*** Tıp kurulları ve Tıp ders kurulları dersleri haricinde kalan alan içi ve alan dışı seçmeli dersleri ile AİT, TUR, YDL kodlu derslerin takvimleri genel akademik takvime göre işletilir."
+  ],
+  "islemler": [
+    {
+      "islem": "Ders kayıtlarının başlaması",
+      "emoji": "🖊️",
+      "donem1": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Öğrenci katkı payı / Öğrenim ücretlerinin ödenmeye başlaması",
+      "emoji": "💰",
+      "donem1": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Oryantasyon haftası",
+      "emoji": "🧭",
+      "donem1": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Derslerin başlaması",
+      "emoji": "🚀",
+      "donem1": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Ders kayıtlarının bitmesi",
+      "emoji": "✅",
+      "donem1": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "07.07.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Öğrenci katkı payı / Öğrenim ücretlerinin ödenmeye bitmesi",
+      "emoji": "💳",
+      "donem1": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "07.07.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Yarıyıl tatilinin başlaması",
+      "emoji": "⏸️",
+      "donem1": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem2": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem3": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem4": { "tarih": "09.01.2026", "isVurgulu": false },
+      "donem5": { "tarih": "09.01.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Yarıyıl tatilinin bitmesi",
+      "emoji": "▶️",
+      "donem1": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem2": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem3": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem4": { "tarih": "19.01.2026", "isVurgulu": false },
+      "donem5": { "tarih": "19.01.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Derslerin bitmesi",
+      "emoji": "🏁",
+      "donem1": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem2": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem3": { "tarih": "12.06.2026", "isVurgulu": false },
+      "donem4": { "tarih": "05.06.2Storage_120.2026", "isVurgulu": false },
+      "donem5": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Yıl sonu sınavlarının başlaması",
+      "emoji": "✍️",
+      "donem1": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem2": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem3": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem4": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem5": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Yıl sonu sınavlarının bitmesi",
+      "emoji": "🎉",
+      "donem1": { "tarih": "10.07.2026", "isVurgulu": false },
+      "donem2": { "tarih": "10.07.2026", "isVurgulu": false },
+      "donem3": { "tarih": "16.07.2026", "isVurgulu": false },
+      "donem4": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem5": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem6": { "tarih": "26.06.2026", "isVurgulu": false }
+    }
+  ]
+}
