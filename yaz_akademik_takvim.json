@@ -1,0 +1,151 @@
+{
+  "baslik": "KARABÜK ÜNİVERSİTESİ 2025 - 2026 EĞİTİM ÖĞRETİM YILI YAZ OKULU AKADEMİK TAKVİMİ",
+  "takvim": [
+    {
+      "tarih": "15 Haziran 2026",
+      "islem": "Açılacak olan derslerin Dekanlık/Müdürlükler tarafından web sayfalarında ilan edilmesi",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "📢"
+    },
+    {
+      "tarih": "29 Haziran - 3 Temmuz 2026",
+      "islem": "Ders alma işlemleri ve ders ücretlerinin yatırılması",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "📚"
+    },
+    {
+      "tarih": "6-7 Temmuz 2026",
+      "islem": "Ders ekleme işlemleri ve ders ücretlerinin yatırılması",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🔄"
+    },
+    {
+      "tarih": "7 Temmuz 2026 (Saat 16:00)",
+      "islem": "Misafir öğrenci kayıtlarının son günü",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🎓"
+    },
+    {
+      "tarih": null,
+      "islem": "DERSLERİN BAŞLAMASI",
+      "isBaslik": true,
+      "isVurgulu": true,
+      "emoji": "🚀"
+    },
+    {
+      "tarih": "6-10 Temmuz 2026",
+      "islem": "1. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "1️⃣"
+    },
+    {
+      "tarih": "13-17 Temmuz 2026",
+      "islem": "2. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "2️⃣"
+    },
+    {
+      "tarih": "20-24 Temmuz 2026",
+      "islem": "3. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "3️⃣"
+    },
+    {
+      "tarih": "27-31 Temmuz 2026",
+      "islem": "4. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "4️⃣"
+    },
+    {
+      "tarih": "3-7 Ağustos 2026",
+      "islem": "5. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "5️⃣"
+    },
+    {
+      "tarih": "10-14 Ağustos 2026",
+      "islem": "6. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "6️⃣"
+    },
+    {
+      "tarih": "17-21 Ağustos 2026",
+      "islem": "7. Hafta Dersleri",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "7️⃣"
+    },
+    {
+      "tarih": null,
+      "islem": "DERSLERİN SON BULMASI",
+      "isBaslik": true,
+      "isVurgulu": true,
+      "emoji": "🏁"
+    },
+    {
+      "tarih": "21 Ağustos 2026",
+      "islem": "Derslerin son günü",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🏁"
+    },
+    {
+      "tarih": "22-28 Ağustos 2026",
+      "islem": "Genel sınavlar",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "✍️"
+    },
+    {
+      "tarih": "22-29 Ağustos 2026",
+      "islem": "Genel sınav sonuçlarının öğrenci otomasyon sistemine girilmesi",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🖥️"
+    },
+    {
+      "tarih": "31 Ağustos 2026",
+      "islem": "Tek ders sınavı başvurularının ilgili Dekanlığa/Müdürlüğe yapılması",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "📝"
+    },
+    {
+      "tarih": "2 Eylül 2026",
+      "islem": "Tek ders sınavı",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "tarih": "2-3 Eylül 2026",
+      "islem": "Tek ders sınavı sonuçlarının öğrenci otomasyon sistemine girilmesi",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🖥️"
+    }
+  ],
+  "notlar": [
+    "- Ders açmak isteyen öğretim elemanlarının, Bölüm Başkanlıklarına şahsen başvuru dilekçesi doğrultusunda ilgili bölümlerde açılacak olan derslerin belirlenmesi,",
+    "- Beklenen dersler arasından bölüm/programlar arası ders taleplerinin yapılabilmesi için ilgili Dekanlık/Müdürlüklere bildirilmesi,",
+    "- Birimler arası ders birleştirmelerinin yapılması amacıyla Dekanlık/Müdürlükler tarafından açılacak olan derslerin diğer Dekanlık/Müdürlüklere bildirilmesi,",
+    "- Dekanlık/Müdürlükler tarafından yapılan ders birleştirmelerine ilişkin Yönetim Kurulu Kararlarının ilgili birimlere iletilmesi,",
+    "- Açılan derslerin OBS sistemine girilmesi,",
+    "- Açılan dersler için belirlenen asgari seviyede taleplerin olmasına rağmen açılması istenilen dersler ile ilgili Yönetim Kurulu Kararı alınması ve Üniversite Yönetim Kuruluna sunulması,",
+    "- Ders programlarının düzenlenmesi ve ilan edilmesi,",
+    "işlemlerinin en geç 16 Haziran 2026 tarihi itibariyle tamamlanması gerekmektedir.",
+    "Ayrıca; açılacak ortak zorunlu derslerin hangi birim üzerinden açılacağının da Dekanlık/Müdürlüklerce ve Öğrenci İşleri Daire Başkanlığına 9 Haziran 2026 tarihine kadar bildirilmesi gerekmektedir.",
+    "15 Haziran 2026 tarihi itibariyle sistem ders seçme ve kapatma işlemleri için kapatılacak olup, alt ders alma dönemi sonunda kapatılması gereken dersler ile ilgili 4-5 Temmuz 2026 tarihlerinde ders kapatma/güncelleme/açma yapılması gerekmektedir.",
+    "Belirlenen programlarda öğrencilerin almak istediği derslerde çakışma olması durumunda otomasyon sistemi ders alma işlemine izin vermeyecektir."
+  ]
+}
