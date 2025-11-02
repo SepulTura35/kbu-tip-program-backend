@@ -1,0 +1,306 @@
+{
+  "baslik": "KARABÜK ÜNİVERSİTESİ 2025-2026 EĞİTİM ÖĞRETİM YILI ÖN LİSANS / LİSANS AKADEMİK TAKVİMİ",
+  "not": "*AİİT, TUR, YDİ sınav tarihleri Üniversitemiz Sınav Merkezi tarafından belirlenecektir.",
+  "islemler": [
+    {
+      "islem": "Açıklan ilan derslerin öğrenci otomasyon sistemine girilmesinin son günü",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "22 Ağustos 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "09 Ocak 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Ders programlarının hazırlanması ve ilan edilmesinin son günü",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "29 Ağustos 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "16 Ocak 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Öğrenci katkı payı / öğrenim ücretlerinin ödenmesi",
+      "emoji": "💰",
+      "guzYariyili": {
+        "tarih": "4-12 Eylül 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "22-30 Ocak 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Ders alma haftası",
+      "emoji": "📚",
+      "guzYariyili": {
+        "tarih": "8-12 Eylül 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "26-30 Ocak 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Ders almalara ilişkin danışman onayı verilmesinin son günü",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "13 Eylül 2025 (Saat 23:59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "31 Ocak 2026 (Saat 23:59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Fazla AKTS alma talebinde bulunacak son sınıf öğrencilerinin ilgili Dekanlığa/Müdürlüğe dilekçe vermesi",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "15-16 Eylül 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "2-3 Şubat 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Fazla AKTS alma talebinde bulunan son sınıf öğrencilere ait kararların Öğrenci İşleri Daire Başkanlığına bildirilmesinin son günü",
+      "emoji": "📤",
+      "guzYariyili": {
+        "tarih": "19 Eylül 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "13 Şubat 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Süresi içerisinde öğrenci katkı payı / öğrenim ücretini ödemeyen öğrencilerin öğrenci katkı payı / öğrenim ücretini ödemesi ve ders ekleme-silme haftası",
+      "emoji": "🔄",
+      "guzYariyili": {
+        "tarih": "15-19 Eylül 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "9-13 Şubat 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Derslerin başlaması",
+      "emoji": "🚀",
+      "guzYariyili": {
+        "tarih": "15 Eylül 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "9 Şubat 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Yatay/dikey geçiş, ek yerleştirme vb. haricî ön lisans, lisans programları için kayıt dondurma başvurusunun son günü",
+      "emoji": "⏸️",
+      "guzYariyili": {
+        "tarih": "19 Eylül 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "6 Şubat 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "YÖK ortak zorunlu dersleri (Aİİ, TUR, YDİ,) muafiyet sınavı*",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "20 Eylül 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Ders ekleme-silme haftasında yapılan ders almalara ilişkin danışman onayı verilmesinin son günü",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "20 Eylül 2025 (Saat 23:59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "7 Şubat 2026 (Saat 23:59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "YÖK ortak zorunlu dersleri (Aİİ, TUR, YDİ,) muafiyet sınavında başarılı olan öğrencilerin ders ekleme dönemi",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "22-23 Eylül 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Ara sınav haftası",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "1-9 Kasım 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "28 Mart-5 Nisan 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Mazeret sınavı haftası",
+      "emoji": "🧑‍⚕️",
+      "guzYariyili": {
+        "tarih": "17-21 Kasım 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "13-17 Nisan 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Ara sınav sonuçlarının öğrenci otomasyon sistemine girilmesinin son günü",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "28 Kasım 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "24 Nisan 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Yarıyıl sonu sınav programının öğrenci otomasyon sistemine girilmesi ve ilan edilmesinin son günü",
+      "emoji": "🗓️",
+      "guzYariyili": {
+        "tarih": "12 Aralık 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "8 Mayıs 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Derslerin sona ermesi",
+      "emoji": "🏁",
+      "guzYariyili": {
+        "tarih": "26 Aralık 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "22 Mayıs 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Yarıyıl sonu sınavları",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "27 Aralık 2025 - 9 Ocak 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "23 Mayıs-5 Haziran 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Yarıyıl sonu sınav sonuçlarının öğrenci otomasyon sistemine girilmesi",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "27 Aralık 2025 - 10 Ocak 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "1-15 Haziran 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Bütünleme sınavları",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "12-18 Ocak 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "17-23 Haziran 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Bütünleme sınavı sonuçlarının öğrenci otomasyon sistemine girilmesi",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "12-19 Ocak 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "17-24 Haziran 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Tek ders sınavı başvurularının ilgili Dekanlığa/Müdürlüğe yapılmasının son günü",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "30 Ocak 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "26 Haziran 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Tek ders sınavı",
+      "emoji": "🧑‍🏫",
+      "guzYariyili": {
+        "tarih": "2 Şubat 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "29 Haziran 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Tek ders sınav sonuçlarının öğrenci otomasyon sistemine girilmesi",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "3 Şubat 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "30 Haziran 2026",
+        "isVurgulu": false
+      }
+    }
+  ]
+}
