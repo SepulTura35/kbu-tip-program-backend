@@ -1,6 +1,14 @@
 {
   "ogrenciKulupleri": [
     {
+      "kulupAdi": "BURAYA REKLAM VERİN",
+      "baskan": "Campusphere",
+      "akademikDanisman": null,
+      "iletisimTelefonu": null,
+      "epostaAdresi": "info@campusphere.com",
+      "emoji": "📢"
+    },
+    {
       "kulupAdi": "SANATLA TERAPİ VE İYİ OLUŞ KULÜBÜ",
       "baskan": "SELCAN TUNÇ",
       "akademikDanisman": "Doç.Dr. EDA ÖZ ÇELİKBAŞ",
