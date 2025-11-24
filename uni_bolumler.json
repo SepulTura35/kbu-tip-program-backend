@@ -1,0 +1,716 @@
+{
+  "lisansBolumleri": [
+    {
+      "bolumAdi": "Aktüerya Bilimleri",
+      "birim": "İşletme Fakültesi",
+      "emoji": "📊"
+    },
+    {
+      "bolumAdi": "Arkeoloji",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🏺"
+    },
+    {
+      "bolumAdi": "Arkeoloji",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🏺"
+    },
+    {
+      "bolumAdi": "Bilgisayar Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Bilgisayar Mühendisliği",
+      "birim": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Bilgisayar Mühendisliği (İngilizce)",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Bilgisayar Mühendisliği (İngilizce)",
+      "birim": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Biyomedikal Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🧬"
+    },
+    {
+      "bolumAdi": "Biyomedikal Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🧬"
+    },
+    {
+      "bolumAdi": "Coğrafya",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🌍"
+    },
+    {
+      "bolumAdi": "Coğrafya",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🌍"
+    },
+    {
+      "bolumAdi": "Çocuk Gelişimi",
+      "birim": "Sağlık Bilimleri Fakültesi",
+      "emoji": "🧸"
+    },
+    {
+      "bolumAdi": "Diş Hekimliği",
+      "birim": "Diş Hekimliği Fakültesi",
+      "emoji": "🦷"
+    },
+    {
+      "bolumAdi": "Doğa Koruma ve Biyoçeşitlilik Yönetimi",
+      "birim": "Orman Fakültesi",
+      "emoji": "🌲"
+    },
+    {
+      "bolumAdi": "Ebelik",
+      "birim": "Sağlık Bilimleri Fakültesi",
+      "emoji": "👶"
+    },
+    {
+      "bolumAdi": "Elektrik-Elektronik Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "⚡"
+    },
+    {
+      "bolumAdi": "Elektrik-Elektronik Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "⚡"
+    },
+    {
+      "bolumAdi": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "⚡"
+    },
+    {
+      "bolumAdi": "Elektrik-Elektronik Mühendisliği (İngilizce)",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "⚡"
+    },
+    {
+      "bolumAdi": "Endüstri Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🏭"
+    },
+    {
+      "bolumAdi": "Endüstri Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🏭"
+    },
+    {
+      "bolumAdi": "Endüstriyel Tasarım",
+      "birim": "Safranbolu Fethi Toker Güzel Sanatlar ve Tasarım Fakültesi",
+      "emoji": "✏️"
+    },
+    {
+      "bolumAdi": "Felsefe",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🤔"
+    },
+    {
+      "bolumAdi": "Felsefe",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🤔"
+    },
+    {
+      "bolumAdi": "Finans ve Bankacılık",
+      "birim": "İşletme Fakültesi",
+      "emoji": "💰"
+    },
+    {
+      "bolumAdi": "Fizyoterapi ve Rehabilitasyon",
+      "birim": "Sağlık Bilimleri Fakültesi",
+      "emoji": "🩺"
+    },
+    {
+      "bolumAdi": "Gastronomi ve Mutfak Sanatları",
+      "birim": "Safranbolu Turizm Fakültesi",
+      "emoji": "🍳"
+    },
+    {
+      "bolumAdi": "Gazetecilik",
+      "birim": "Safranbolu Türker İnanoğlu İletişim Fakültesi",
+      "emoji": "📰"
+    },
+    {
+      "bolumAdi": "Gazetecilik",
+      "birim": "Türker İnanoğlu İletişim Fakültesi",
+      "emoji": "📰"
+    },
+    {
+      "bolumAdi": "Halkla İlişkiler ve Tanıtım",
+      "birim": "İşletme Fakültesi",
+      "emoji": "📢"
+    },
+    {
+      "bolumAdi": "Hemşirelik",
+      "birim": "Sağlık Bilimleri Fakültesi",
+      "emoji": "👩‍⚕️"
+    },
+    {
+      "bolumAdi": "İktisat",
+      "birim": "İktisadi ve İdari Bilimler Fakültesi",
+      "emoji": "📉"
+    },
+    {
+      "bolumAdi": "İlahiyat",
+      "birim": "İlahiyat Fakültesi",
+      "emoji": "🕌"
+    },
+    {
+      "bolumAdi": "İlahiyat (M.T.O.K.)",
+      "birim": "İlahiyat Fakültesi",
+      "emoji": "🕌"
+    },
+    {
+      "bolumAdi": "İngiliz Dili ve Edebiyatı",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🇬🇧"
+    },
+    {
+      "bolumAdi": "İngiliz Dili ve Edebiyatı",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🇬🇧"
+    },
+    {
+      "bolumAdi": "İnşaat Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🏗️"
+    },
+    {
+      "bolumAdi": "İnşaat Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🏗️"
+    },
+    {
+      "bolumAdi": "İşletme",
+      "birim": "İşletme Fakültesi",
+      "emoji": "💼"
+    },
+    {
+      "bolumAdi": "İşletme (İngilizce)",
+      "birim": "İşletme Fakültesi",
+      "emoji": "💼"
+    },
+    {
+      "bolumAdi": "Kimya",
+      "birim": "Fen Fakültesi",
+      "emoji": "🧪"
+    },
+    {
+      "bolumAdi": "Kimya",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🧪"
+    },
+    {
+      "bolumAdi": "Makine Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "⚙️"
+    },
+    {
+      "bolumAdi": "Makine Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "⚙️"
+    },
+    {
+      "bolumAdi": "Makine Mühendisliği (İngilizce)",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "⚙️"
+    },
+    {
+      "bolumAdi": "Makine Mühendisliği (İngilizce)",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "⚙️"
+    },
+    {
+      "bolumAdi": "Matematik",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🧮"
+    },
+    {
+      "bolumAdi": "Matematik",
+      "birim": "Fen Fakültesi",
+      "emoji": "🧮"
+    },
+    {
+      "bolumAdi": "Mekatronik Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🤖"
+    },
+    {
+      "bolumAdi": "Mekatronik Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🤖"
+    },
+    {
+      "bolumAdi": "Metalurji ve Malzeme Mühendisliği (İngilizce)",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🔩"
+    },
+    {
+      "bolumAdi": "Metalurji ve Malzeme Mühendisliği (İngilizce)",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🔩"
+    },
+    {
+      "bolumAdi": "Mimarlık",
+      "birim": "Safranbolu Başak Cengiz Mimarlık Fakültesi",
+      "emoji": "🏛️"
+    },
+    {
+      "bolumAdi": "Orman Mühendisliği",
+      "birim": "Orman Fakültesi",
+      "emoji": "🌲"
+    },
+    {
+      "bolumAdi": "Otomotiv Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🚗"
+    },
+    {
+      "bolumAdi": "Otomotiv Mühendisliği",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🚗"
+    },
+    {
+      "bolumAdi": "Otomotiv Mühendisliği (KKTC Uyruklu)",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🚗"
+    },
+    {
+      "bolumAdi": "Otomotiv Mühendisliği (KKTC Uyruklu)",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🚗"
+    },
+    {
+      "bolumAdi": "Psikoloji",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🧠"
+    },
+    {
+      "bolumAdi": "Psikoloji",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🧠"
+    },
+    {
+      "bolumAdi": "Radyo, Televizyon ve Sinema",
+      "birim": "Safranbolu Türker İnanoğlu İletişim Fakültesi",
+      "emoji": "🎥"
+    },
+    {
+      "bolumAdi": "Radyo, Televizyon ve Sinema",
+      "birim": "Türker İnanoğlu İletişim Fakültesi",
+      "emoji": "🎥"
+    },
+    {
+      "bolumAdi": "Raylı Sistemler Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🚂"
+    },
+    {
+      "bolumAdi": "Raylı Sistemler Mühendisliği (İngilizce)",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "🚂"
+    },
+    {
+      "bolumAdi": "Raylı Sistemler Mühendisliği (İngilizce)",
+      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "emoji": "🚂"
+    },
+    {
+      "bolumAdi": "Rekreasyon Yönetimi",
+      "birim": "Safranbolu Turizm Fakültesi",
+      "emoji": "🏄"
+    },
+    {
+      "bolumAdi": "Sanat Tarihi",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🖼️"
+    },
+    {
+      "bolumAdi": "Sanat Tarihi",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🖼️"
+    },
+    {
+      "bolumAdi": "Siyaset Bilimi ve Kamu Yönetimi",
+      "birim": "İktisadi ve İdari Bilimler Fakültesi",
+      "emoji": "🗳️"
+    },
+    {
+      "bolumAdi": "Sosyal Hizmet",
+      "birim": "İktisadi ve İdari Bilimler Fakültesi",
+      "emoji": "🤝"
+    },
+    {
+      "bolumAdi": "Sosyoloji",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "👥"
+    },
+    {
+      "bolumAdi": "Sosyoloji",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "👥"
+    },
+    {
+      "bolumAdi": "Spor Yöneticiliği",
+      "birim": "Hasan Doğan Spor Bilimleri Fakültesi",
+      "emoji": "⚽"
+    },
+    {
+      "bolumAdi": "Tarih",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "📜"
+    },
+    {
+      "bolumAdi": "Tarih",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "📜"
+    },
+    {
+      "bolumAdi": "Tıp",
+      "birim": "Tıp Fakültesi",
+      "emoji": "⚕️"
+    },
+    {
+      "bolumAdi": "Turizm İşletmeciliği",
+      "birim": "Safranbolu Turizm Fakültesi",
+      "emoji": "✈️"
+    },
+    {
+      "bolumAdi": "Turizm Rehberliği",
+      "birim": "Safranbolu Turizm Fakültesi",
+      "emoji": "🚩"
+    },
+    {
+      "bolumAdi": "Türk Dili ve Edebiyatı",
+      "birim": "Edebiyat Fakültesi",
+      "emoji": "🇹🇷"
+    },
+    {
+      "bolumAdi": "Türk Dili ve Edebiyatı",
+      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
+      "emoji": "🇹🇷"
+    },
+    {
+      "bolumAdi": "Uluslararası İlişkiler",
+      "birim": "İktisadi ve İdari Bilimler Fakültesi",
+      "emoji": "🌐"
+    },
+    {
+      "bolumAdi": "Uluslararası İlişkiler (İngilizce)",
+      "birim": "İktisadi ve İdari Bilimler Fakültesi",
+      "emoji": "🌐"
+    },
+    {
+      "bolumAdi": "Yazılım Mühendisliği",
+      "birim": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+      "emoji": "💾"
+    },
+    {
+      "bolumAdi": "Yazılım Mühendisliği",
+      "birim": "Mühendislik Fakültesi",
+      "emoji": "💾"
+    }
+  ],
+  "onLisansBolumleri": [
+    {
+      "bolumAdi": "Ağız ve Diş Sağlığı",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🦷"
+    },
+    {
+      "bolumAdi": "Ameliyathane Hizmetleri",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🏥"
+    },
+    {
+      "bolumAdi": "Arka-Yüz Yazılım Geliştirme",
+      "birim": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "emoji": "👨‍💻"
+    },
+    {
+      "bolumAdi": "Aşçılık",
+      "birim": "Eflani Meslek Yüksekokulu",
+      "emoji": "👨‍🍳"
+    },
+    {
+      "bolumAdi": "Atçılık ve Antrenörlüğü",
+      "birim": "Eflani Meslek Yüksekokulu",
+      "emoji": "🐎"
+    },
+    {
+      "bolumAdi": "Bilgisayar Programcılığı",
+      "birim": "Yenice Meslek Yüksekokulu",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Bilgisayar Programcılığı",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Bilgisayar Teknolojisi",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "💻"
+    },
+    {
+      "bolumAdi": "Bilişim Güvenliği Teknolojisi",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "🔒"
+    },
+    {
+      "bolumAdi": "Bulut Bilişim Operatörlüğü",
+      "birim": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "emoji": "☁️"
+    },
+    {
+      "bolumAdi": "Çocuk Gelişimi",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🧸"
+    },
+    {
+      "bolumAdi": "Elektrik",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🔌"
+    },
+    {
+      "bolumAdi": "Elektronik Teknolojisi",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🔋"
+    },
+    {
+      "bolumAdi": "Eser Koruma",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "🏺"
+    },
+    {
+      "bolumAdi": "Fizyoterapi",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🤸"
+    },
+    {
+      "bolumAdi": "Geleneksel El Sanatları",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🧶"
+    },
+    {
+      "bolumAdi": "Gıda Kalite Kontrolü ve Analizi",
+      "birim": "Eflani Meslek Yüksekokulu",
+      "emoji": "🍏"
+    },
+    {
+      "bolumAdi": "Hibrid ve Elektrikli Taşıtlar Teknolojisi",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🔋"
+    },
+    {
+      "bolumAdi": "İç Mekan Tasarımı",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🏠"
+    },
+    {
+      "bolumAdi": "İklimlendirme ve Soğutma Teknolojisi",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "❄️"
+    },
+    {
+      "bolumAdi": "İlk ve Acil Yardım",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🚑"
+    },
+    {
+      "bolumAdi": "İş Sağlığı ve Güvenliği",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "👷"
+    },
+    {
+      "bolumAdi": "İş Sağlığı ve Güvenliği",
+      "birim": "Yenice Meslek Yüksekokulu",
+      "emoji": "👷"
+    },
+    {
+      "bolumAdi": "İş Sağlığı ve Güvenliği",
+      "birim": "Eflani Meslek Yüksekokulu",
+      "emoji": "👷"
+    },
+    {
+      "bolumAdi": "İş Sağlığı ve Güvenliği",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "👷"
+    },
+    {
+      "bolumAdi": "İş Sağlığı ve Güvenliği (Uzaktan Öğretim)",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "👷"
+    },
+    {
+      "bolumAdi": "İşletme Yönetimi",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "💼"
+    },
+    {
+      "bolumAdi": "Kaynak Teknolojisi",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🔥"
+    },
+    {
+      "bolumAdi": "Makine",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "⚙️"
+    },
+    {
+      "bolumAdi": "Metalurji",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🔩"
+    },
+    {
+      "bolumAdi": "Mimari Restorasyon",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🏛️"
+    },
+    {
+      "bolumAdi": "Moda Tasarımı",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "👗"
+    },
+    {
+      "bolumAdi": "Muhasebe ve Vergi Uygulamaları",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🧾"
+    },
+    {
+      "bolumAdi": "Odyometri",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "👂"
+    },
+    {
+      "bolumAdi": "Optisyenlik",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "👓"
+    },
+    {
+      "bolumAdi": "Ortopedik Protez ve Ortez",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🦵"
+    },
+    {
+      "bolumAdi": "Otobüs Kaptanlığı",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🚌"
+    },
+    {
+      "bolumAdi": "Otomotiv Teknolojisi",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🚗"
+    },
+    {
+      "bolumAdi": "Otonom Sistemler Teknikerliği",
+      "birim": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "emoji": "🤖"
+    },
+    {
+      "bolumAdi": "Otopsi Yardımcılığı",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🔬"
+    },
+    {
+      "bolumAdi": "Oyun Geliştirme ve Programlama",
+      "birim": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "emoji": "🎮"
+    },
+    {
+      "bolumAdi": "Ön-Yüz Yazılım Geliştirme",
+      "birim": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "emoji": "👨‍💻"
+    },
+    {
+      "bolumAdi": "Özel Güvenlik ve Koruma",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "👮"
+    },
+    {
+      "bolumAdi": "Radyo ve Televizyon Programcılığı",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🎙️"
+    },
+    {
+      "bolumAdi": "Raylı Sistemler Elektrik ve Elektronik",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "🚈"
+    },
+    {
+      "bolumAdi": "Raylı Sistemler Makine Teknolojisi",
+      "birim": "Yenice Meslek Yüksekokulu",
+      "emoji": "🚂"
+    },
+    {
+      "bolumAdi": "Raylı Sistemler Makinistliği",
+      "birim": "Eskipazar Meslek Yüksekokulu",
+      "emoji": "🚅"
+    },
+    {
+      "bolumAdi": "Sağlık Kurumları İşletmeciliği",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🏥"
+    },
+    {
+      "bolumAdi": "Sivil Savunma ve İtfaiyecilik",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🚒"
+    },
+    {
+      "bolumAdi": "Tıbbi Dokümantasyon ve Sekreterlik",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "📂"
+    },
+    {
+      "bolumAdi": "Tıbbi Laboratuvar Teknikleri",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "🧪"
+    },
+    {
+      "bolumAdi": "Tıbbi Tanıtım ve Pazarlama",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "💊"
+    },
+    {
+      "bolumAdi": "Turist Rehberliği",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🚩"
+    },
+    {
+      "bolumAdi": "Turizm ve Otel İşletmeciliği",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🏨"
+    },
+    {
+      "bolumAdi": "Ulaştırma ve Trafik Hizmetleri",
+      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "emoji": "🚦"
+    },
+    {
+      "bolumAdi": "Uygulamalı İngilizce Çevirmenlik (İngilizce)",
+      "birim": "Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu",
+      "emoji": "🗣️"
+    },
+    {
+      "bolumAdi": "Yapay Zeka Operatörlüğü",
+      "birim": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "emoji": "🧠"
+    },
+    {
+      "bolumAdi": "Yaşlı Bakımı",
+      "birim": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "emoji": "👴"
+    }
+  ]
+}
