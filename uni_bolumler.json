@@ -11,18 +11,8 @@
       "emoji": "🏺"
     },
     {
-      "bolumAdi": "Arkeoloji",
-      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
-      "emoji": "🏺"
-    },
-    {
       "bolumAdi": "Bilgisayar Mühendisliği",
       "birim": "Mühendislik Fakültesi",
-      "emoji": "💻"
-    },
-    {
-      "bolumAdi": "Bilgisayar Mühendisliği",
-      "birim": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
       "emoji": "💻"
     },
     {
@@ -31,28 +21,13 @@
       "emoji": "💻"
     },
     {
-      "bolumAdi": "Bilgisayar Mühendisliği (İngilizce)",
-      "birim": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
-      "emoji": "💻"
-    },
-    {
       "bolumAdi": "Biyomedikal Mühendisliği",
       "birim": "Mühendislik Fakültesi",
-      "emoji": "🧬"
-    },
-    {
-      "bolumAdi": "Biyomedikal Mühendisliği",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "emoji": "🧬"
     },
     {
       "bolumAdi": "Coğrafya",
       "birim": "Edebiyat Fakültesi",
-      "emoji": "🌍"
-    },
-    {
-      "bolumAdi": "Coğrafya",
-      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
       "emoji": "🌍"
     },
     {
@@ -81,28 +56,13 @@
       "emoji": "⚡"
     },
     {
-      "bolumAdi": "Elektrik-Elektronik Mühendisliği",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "⚡"
-    },
-    {
       "bolumAdi": "Elektrik-Elektronik Mühendisliği (İngilizce)",
       "birim": "Mühendislik Fakültesi",
       "emoji": "⚡"
     },
     {
-      "bolumAdi": "Elektrik-Elektronik Mühendisliği (İngilizce)",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "⚡"
-    },
-    {
       "bolumAdi": "Endüstri Mühendisliği",
       "birim": "Mühendislik Fakültesi",
-      "emoji": "🏭"
-    },
-    {
-      "bolumAdi": "Endüstri Mühendisliği",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "emoji": "🏭"
     },
     {
@@ -113,11 +73,6 @@
     {
       "bolumAdi": "Felsefe",
       "birim": "Edebiyat Fakültesi",
-      "emoji": "🤔"
-    },
-    {
-      "bolumAdi": "Felsefe",
-      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
       "emoji": "🤔"
     },
     {
@@ -138,11 +93,6 @@
     {
       "bolumAdi": "Gazetecilik",
       "birim": "Safranbolu Türker İnanoğlu İletişim Fakültesi",
-      "emoji": "📰"
-    },
-    {
-      "bolumAdi": "Gazetecilik",
-      "birim": "Türker İnanoğlu İletişim Fakültesi",
       "emoji": "📰"
     },
     {
@@ -176,18 +126,8 @@
       "emoji": "🇬🇧"
     },
     {
-      "bolumAdi": "İngiliz Dili ve Edebiyatı",
-      "birim": "Edebiyat Fakültesi",
-      "emoji": "🇬🇧"
-    },
-    {
       "bolumAdi": "İnşaat Mühendisliği",
       "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "🏗️"
-    },
-    {
-      "bolumAdi": "İnşaat Mühendisliği",
-      "birim": "Mühendislik Fakültesi",
       "emoji": "🏗️"
     },
     {
@@ -206,18 +146,8 @@
       "emoji": "🧪"
     },
     {
-      "bolumAdi": "Kimya",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "🧪"
-    },
-    {
       "bolumAdi": "Makine Mühendisliği",
       "birim": "Mühendislik Fakültesi",
-      "emoji": "⚙️"
-    },
-    {
-      "bolumAdi": "Makine Mühendisliği",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "emoji": "⚙️"
     },
     {
@@ -226,18 +156,8 @@
       "emoji": "⚙️"
     },
     {
-      "bolumAdi": "Makine Mühendisliği (İngilizce)",
-      "birim": "Mühendislik Fakültesi",
-      "emoji": "⚙️"
-    },
-    {
       "bolumAdi": "Matematik",
       "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "🧮"
-    },
-    {
-      "bolumAdi": "Matematik",
-      "birim": "Fen Fakültesi",
       "emoji": "🧮"
     },
     {
@@ -246,18 +166,8 @@
       "emoji": "🤖"
     },
     {
-      "bolumAdi": "Mekatronik Mühendisliği",
-      "birim": "Mühendislik Fakültesi",
-      "emoji": "🤖"
-    },
-    {
       "bolumAdi": "Metalurji ve Malzeme Mühendisliği (İngilizce)",
       "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "🔩"
-    },
-    {
-      "bolumAdi": "Metalurji ve Malzeme Mühendisliği (İngilizce)",
-      "birim": "Mühendislik Fakültesi",
       "emoji": "🔩"
     },
     {
@@ -276,18 +186,8 @@
       "emoji": "🚗"
     },
     {
-      "bolumAdi": "Otomotiv Mühendisliği",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "🚗"
-    },
-    {
       "bolumAdi": "Otomotiv Mühendisliği (KKTC Uyruklu)",
       "birim": "Mühendislik Fakültesi",
-      "emoji": "🚗"
-    },
-    {
-      "bolumAdi": "Otomotiv Mühendisliği (KKTC Uyruklu)",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "emoji": "🚗"
     },
     {
@@ -296,18 +196,8 @@
       "emoji": "🧠"
     },
     {
-      "bolumAdi": "Psikoloji",
-      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
-      "emoji": "🧠"
-    },
-    {
       "bolumAdi": "Radyo, Televizyon ve Sinema",
       "birim": "Safranbolu Türker İnanoğlu İletişim Fakültesi",
-      "emoji": "🎥"
-    },
-    {
-      "bolumAdi": "Radyo, Televizyon ve Sinema",
-      "birim": "Türker İnanoğlu İletişim Fakültesi",
       "emoji": "🎥"
     },
     {
@@ -321,11 +211,6 @@
       "emoji": "🚂"
     },
     {
-      "bolumAdi": "Raylı Sistemler Mühendisliği (İngilizce)",
-      "birim": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "emoji": "🚂"
-    },
-    {
       "bolumAdi": "Rekreasyon Yönetimi",
       "birim": "Safranbolu Turizm Fakültesi",
       "emoji": "🏄"
@@ -333,11 +218,6 @@
     {
       "bolumAdi": "Sanat Tarihi",
       "birim": "İnsan ve Toplum Bilimleri Fakültesi",
-      "emoji": "🖼️"
-    },
-    {
-      "bolumAdi": "Sanat Tarihi",
-      "birim": "Edebiyat Fakültesi",
       "emoji": "🖼️"
     },
     {
@@ -356,11 +236,6 @@
       "emoji": "👥"
     },
     {
-      "bolumAdi": "Sosyoloji",
-      "birim": "Edebiyat Fakültesi",
-      "emoji": "👥"
-    },
-    {
       "bolumAdi": "Spor Yöneticiliği",
       "birim": "Hasan Doğan Spor Bilimleri Fakültesi",
       "emoji": "⚽"
@@ -368,11 +243,6 @@
     {
       "bolumAdi": "Tarih",
       "birim": "İnsan ve Toplum Bilimleri Fakültesi",
-      "emoji": "📜"
-    },
-    {
-      "bolumAdi": "Tarih",
-      "birim": "Edebiyat Fakültesi",
       "emoji": "📜"
     },
     {
@@ -396,11 +266,6 @@
       "emoji": "🇹🇷"
     },
     {
-      "bolumAdi": "Türk Dili ve Edebiyatı",
-      "birim": "İnsan ve Toplum Bilimleri Fakültesi",
-      "emoji": "🇹🇷"
-    },
-    {
       "bolumAdi": "Uluslararası İlişkiler",
       "birim": "İktisadi ve İdari Bilimler Fakültesi",
       "emoji": "🌐"
@@ -413,11 +278,6 @@
     {
       "bolumAdi": "Yazılım Mühendisliği",
       "birim": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
-      "emoji": "💾"
-    },
-    {
-      "bolumAdi": "Yazılım Mühendisliği",
-      "birim": "Mühendislik Fakültesi",
       "emoji": "💾"
     }
   ],
@@ -450,11 +310,6 @@
     {
       "bolumAdi": "Bilgisayar Programcılığı",
       "birim": "Yenice Meslek Yüksekokulu",
-      "emoji": "💻"
-    },
-    {
-      "bolumAdi": "Bilgisayar Programcılığı",
-      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
       "emoji": "💻"
     },
     {
@@ -530,21 +385,6 @@
     {
       "bolumAdi": "İş Sağlığı ve Güvenliği",
       "birim": "Eskipazar Meslek Yüksekokulu",
-      "emoji": "👷"
-    },
-    {
-      "bolumAdi": "İş Sağlığı ve Güvenliği",
-      "birim": "Yenice Meslek Yüksekokulu",
-      "emoji": "👷"
-    },
-    {
-      "bolumAdi": "İş Sağlığı ve Güvenliği",
-      "birim": "Eflani Meslek Yüksekokulu",
-      "emoji": "👷"
-    },
-    {
-      "bolumAdi": "İş Sağlığı ve Güvenliği",
-      "birim": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
       "emoji": "👷"
     },
     {
