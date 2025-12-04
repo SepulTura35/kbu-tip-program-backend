@@ -2,31 +2,41 @@
   {
     "id": "tost_cekilis",
     "title": "Haftalık Tost Çekilişi",
-    "subtitle": "Şanslı 10 kişiden biri ol!",
+    "subtitle": "Kaşarlı Tost Şansı! (10 Kişi)",
     "points": 250,
-    "type": "raffle", 
+    "type": "raffle",
     "icon": "ticket",
     "color": "orange",
     "buttonText": "Bilet Al"
   },
   {
-    "id": "kahve_indirim",
-    "title": "Kahve Dünyası %20 İndirim",
-    "subtitle": "Tüm kahvelerde geçerli",
+    "id": "meyvesuyu_cekilis",
+    "title": "Meyve Suyu Çekilişi",
+    "subtitle": "Serinleten ödül (20 Kişi)",
+    "points": 100,
+    "type": "raffle",
+    "icon": "coffee", 
+    "color": "purple",
+    "buttonText": "Şansını Dene"
+  },
+  {
+    "id": "tost_direkt",
+    "title": "Karışık Tost (Garantili)",
+    "subtitle": "Kantine git, hemen al.",
+    "points": 7500,
+    "type": "coupon",
+    "icon": "star",
+    "color": "red",
+    "buttonText": "Kuponu Al"
+  },
+  {
+    "id": "meyvesuyu_direkt",
+    "title": "Meyve Suyu (Garantili)",
+    "subtitle": "Kantine git, hemen al.",
     "points": 2500,
     "type": "coupon",
     "icon": "coffee",
     "color": "teal",
     "buttonText": "Kuponu Al"
-  },
-  {
-    "id": "sinema_cekilis",
-    "title": "Sinema Bileti Çekilişi",
-    "subtitle": "Çift kişilik bilet şansı",
-    "points": 500,
-    "type": "raffle",
-    "icon": "movie",
-    "color": "red",
-    "buttonText": "Katıl"
   }
 ]
