@@ -2,7 +2,7 @@
   {
     "id": "tost_cekilis",
     "title": "Haftalık Tost Çekilişi",
-    "subtitle": "Kaşarlı Tost Şansı! (10 Kişi)",
+    "subtitle": "Nugget Tost Şansı! (10 Kişi)",
     "points": 250,
     "type": "raffle",
     "icon": "ticket",
@@ -11,7 +11,7 @@
   },
   {
     "id": "meyvesuyu_cekilis",
-    "title": "Meyve Suyu Çekilişi",
+    "title": "Ice Tea Çekilişi",
     "subtitle": "Serinleten ödül (20 Kişi)",
     "points": 100,
     "type": "raffle",
@@ -21,9 +21,9 @@
   },
   {
     "id": "tost_direkt",
-    "title": "Karışık Tost (Garantili)",
+    "title": "Nugget Tost",
     "subtitle": "Kantine git, hemen al.",
-    "points": 7500,
+    "points": 15000,
     "type": "coupon",
     "icon": "star",
     "color": "red",
@@ -31,9 +31,9 @@
   },
   {
     "id": "meyvesuyu_direkt",
-    "title": "Meyve Suyu (Garantili)",
+    "title": "Ice Tea",
     "subtitle": "Kantine git, hemen al.",
-    "points": 2500,
+    "points": 5000,
     "type": "coupon",
     "icon": "coffee",
     "color": "teal",
