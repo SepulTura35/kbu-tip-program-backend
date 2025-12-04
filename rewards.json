@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tost_cekilis",
+    "title": "Haftalık Tost Çekilişi",
+    "subtitle": "Şanslı 10 kişiden biri ol!",
+    "points": 250,
+    "type": "raffle", 
+    "icon": "ticket",
+    "color": "orange",
+    "buttonText": "Bilet Al"
+  },
+  {
+    "id": "kahve_indirim",
+    "title": "Kahve Dünyası %20 İndirim",
+    "subtitle": "Tüm kahvelerde geçerli",
+    "points": 2500,
+    "type": "coupon",
+    "icon": "coffee",
+    "color": "teal",
+    "buttonText": "Kuponu Al"
+  },
+  {
+    "id": "sinema_cekilis",
+    "title": "Sinema Bileti Çekilişi",
+    "subtitle": "Çift kişilik bilet şansı",
+    "points": 500,
+    "type": "raffle",
+    "icon": "movie",
+    "color": "red",
+    "buttonText": "Katıl"
+  }
+]
