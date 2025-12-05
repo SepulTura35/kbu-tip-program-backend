@@ -19,24 +19,4 @@
     "color": "purple",
     "buttonText": "Şansını Dene"
   },
-  {
-    "id": "tost_direkt",
-    "title": "Nugget Tost",
-    "subtitle": "Kantine git, hemen al.",
-    "points": 15000,
-    "type": "coupon",
-    "icon": "star",
-    "color": "red",
-    "buttonText": "Kuponu Al"
-  },
-  {
-    "id": "meyvesuyu_direkt",
-    "title": "Ice Tea",
-    "subtitle": "Kantine git, hemen al.",
-    "points": 5000,
-    "type": "coupon",
-    "icon": "coffee",
-    "color": "teal",
-    "buttonText": "Kuponu Al"
-  }
 ]
