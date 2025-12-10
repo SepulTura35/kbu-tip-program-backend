@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KBU Kantin Paneli</title>
+    <style>
+        body { font-family: sans-serif; background-color: #2d2d2d; color: white; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .card { background: white; color: #333; padding: 30px; border-radius: 20px; text-align: center; width: 350px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        input { width: 90%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px; }
+        .btn { background-color: #6B6BCE; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 8px; cursor: pointer; width: 100%; margin-top: 10px; }
+        .btn:hover { background-color: #5a5ab5; }
+        .hidden { display: none; }
+        .error { color: red; font-size: 14px; margin-top: 10px; }
+        .success { color: green; font-weight: bold; font-size: 18px; }
+    </style>
+</head>
+<body>
+
+    <div class="card" id="loginCard">
+        <h2>Kantin Girişi 🔒</h2>
+        <input type="email" id="email" placeholder="Kantin E-posta">
+        <input type="password" id="password" placeholder="Şifre">
+        <button class="btn" onclick="login()">Giriş Yap</button>
+        <p class="error" id="loginError"></p>
+    </div>
+
+    <div class="card hidden" id="orderCard">
+        <h2 id="productTitle">Ürün Yükleniyor...</h2>
+        <p style="color: #666;">ID: <span id="displayOrderId"></span></p>
+        <div id="actionArea">
+            <button class="btn" style="background-color: #28a745;" onclick="approveOrder()">✅ ONAYLA ve TESLİM ET</button>
+        </div>
+        <p id="statusMessage"></p>
+        <button class="btn" style="background-color: #dc3545; margin-top: 20px;" onclick="logout()">Çıkış Yap</button>
+    </div>
+
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+        import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+        import { getFirestore, doc, getDoc, runTransaction, increment } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
+
+        // --- BURAYA KENDİ FIREBASE AYARLARINI YAPIŞTIR ---
+  const firebaseConfig = {
+
+    apiKey: "AIzaSyA7RiH4UPv25kI-EHbnuUcVQS-WRCYMit4",
+
+    authDomain: "forum-test-db.firebaseapp.com",
+
+    projectId: "forum-test-db",
+
+    storageBucket: "forum-test-db.firebasestorage.app",
+
+    messagingSenderId: "488516678810",
+
+    appId: "1:488516678810:web:df4e2884033ee243599b23"
+
+  };
+
+  // --
+
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const db = getFirestore(app);
+
+        // URL'den ID al
+        const urlParams = new URLSearchParams(window.location.search);
+        const orderId = urlParams.get('id');
+
+        // Oturum Durumunu Dinle
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+                // Giriş yapılmışsa Login ekranını gizle, Siparişi göster
+                document.getElementById('loginCard').classList.add('hidden');
+                document.getElementById('orderCard').classList.remove('hidden');
+                loadOrderDetails();
+            } else {
+                // Giriş yapılmamışsa Login ekranını göster
+                document.getElementById('loginCard').classList.remove('hidden');
+                document.getElementById('orderCard').classList.add('hidden');
+            }
+        });
+
+        // Giriş Fonksiyonu (Global Scope için window'a atıyoruz)
+        window.login = () => {
+            const email = document.getElementById('email').value;
+            const pass = document.getElementById('password').value;
+            const errElem = document.getElementById('loginError');
+            errElem.innerText = "";
+
+            signInWithEmailAndPassword(auth, email, pass)
+                .catch((error) => {
+                    errElem.innerText = "Hatalı giriş: " + error.message;
+                });
+        };
+
+        window.logout = () => signOut(auth);
+
+        // Sipariş Detayını Çek
+        async function loadOrderDetails() {
+            if (!orderId) {
+                document.getElementById('productTitle').innerText = "Geçersiz Kod!";
+                document.getElementById('actionArea').style.display = 'none';
+                return;
+            }
+            document.getElementById('displayOrderId').innerText = orderId;
+
+            try {
+                const docSnap = await getDoc(doc(db, "orders", orderId));
+                if (docSnap.exists()) {
+                    const data = docSnap.data();
+                    if (data.status === 'pending') {
+                        document.getElementById('productTitle').innerText = data.itemTitle;
+                    } else if (data.status === 'approved') {
+                        document.getElementById('productTitle').innerText = "Bu kod zaten kullanılmış!";
+                        document.getElementById('actionArea').style.display = 'none';
+                    }
+                } else {
+                    document.getElementById('productTitle').innerText = "Sipariş Bulunamadı!";
+                    document.getElementById('actionArea').style.display = 'none';
+                }
+            } catch (e) {
+                document.getElementById('statusMessage').innerText = "Hata: Yetkiniz yok.";
+            }
+        }
+
+        // Onaylama Fonksiyonu
+        window.approveOrder = async () => {
+            const statusMsg = document.getElementById('statusMessage');
+            statusMsg.innerText = "İşleniyor...";
+            
+            try {
+                const orderRef = doc(db, "orders", orderId);
+                
+                // Önce sipariş verisini alalım (userId ve itemId lazım)
+                const orderSnap = await getDoc(orderRef);
+                if(!orderSnap.exists()) throw "Sipariş yok";
+                const orderData = orderSnap.data();
+
+                const userRef = doc(db, "users", orderData.userId);
+                const itemRef = doc(db, "market_items", orderData.itemId);
+
+                await runTransaction(db, async (transaction) => {
+                    const itemSnap = await transaction.get(itemRef);
+                    if (!itemSnap.exists()) throw "Ürün veritabanında yok!";
+                    
+                    const newStock = itemSnap.data().stock - 1;
+                    if (newStock < 0) throw "Stok Yetersiz!";
+
+                    transaction.update(orderRef, { status: 'approved' });
+                    transaction.update(itemRef, { stock: increment(-1) });
+                    transaction.update(userRef, { points: increment(-orderData.cost) });
+                });
+
+                document.getElementById('actionArea').style.display = 'none';
+                document.getElementById('productTitle').style.color = '#28a745';
+                document.getElementById('productTitle').innerText = "İŞLEM BAŞARILI!";
+                statusMsg.innerHTML = "<span class='success'>Ürünü teslim edebilirsiniz.</span>";
+
+            } catch (e) {
+                console.error(e);
+                statusMsg.innerText = "Hata: " + e;
+            }
+        };
+    </script>
+</body>
+</html>
