@@ -15,8 +15,8 @@
     "subtitle": "Serinleten ödül (20 Kişi)",
     "points": 100,
     "type": "raffle",
-    "icon": "coffee", 
+    "icon": "coffee",
     "color": "purple",
     "buttonText": "Şansını Dene"
-  },
+  }
 ]
