@@ -1,0 +1,155 @@
+{
+  "baslik": "KARABÜK UNIVERSITY 2025–2026 ACADEMIC YEAR FACULTY OF DENTISTRY ACADEMIC CALENDAR",
+  "islemler": [
+    {
+      "islem": "Deadline for entering the courses to be offered into the student automation system",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "22 August 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "09 January 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for preparing and announcing course schedules",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "29 August 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "16 January 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Payment of student contribution / tuition fees",
+      "emoji": "💰",
+      "guzYariyili": {
+        "tarih": "4–12 September 2025 (17:00)",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "22–30 January 2026 (17:00)",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Course registration week",
+      "emoji": "📚",
+      "guzYariyili": {
+        "tarih": "8–12 September 2025 (17:00)",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "26–30 January 2026 (17:00)",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Deadline for advisor approval of course registrations",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "13 September 2025 (23:59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "31 January 2026 (23:59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Payment of student contribution / tuition fees by students who did not pay on time and add-drop week",
+      "emoji": "🔄",
+      "guzYariyili": {
+        "tarih": "15–19 September 2025 (17:00)",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "2–6 February 2026 (17:00)",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Start of courses",
+      "emoji": "🚀",
+      "guzYariyili": {
+        "tarih": "15 September 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "9 February 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Orientation week and occupational health and safety trainings",
+      "emoji": "🧭",
+      "guzYariyili": {
+        "tarih": "15–19 September 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for freeze-of-registration applications for associate and undergraduate programs (excluding transfers and additional placements)",
+      "emoji": "⏸️",
+      "guzYariyili": {
+        "tarih": "19 September 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "6 February 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Exemption exam for YÖK compulsory common courses (Aİİ, TUR, YDİ)",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "20 September 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for advisor approval of courses taken during the add-drop period",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "20 September 2025 (23:59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "7 February 2026 (23:59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Course add period for students who passed the YÖK compulsory common course exemption exam (Aİİ, TUR, YDİ)",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "22–23 September 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Midterm exam week",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "30 November–5 December 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
