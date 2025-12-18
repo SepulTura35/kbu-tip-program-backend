@@ -1,0 +1,120 @@
+{
+  "baslik": "KARABUK UNIVERSITY FACULTY OF MEDICINE 2025-2026 ACADEMIC YEAR CALENDAR",
+  "notlar": [
+    "* Occupational health and safety training for Year 4, 5, and 6 will be given during the orientation week at a time deemed appropriate by Karabuk Training and Research Hospital.",
+    "** Committee exams, course committee exams, year-end and make-up exams for Year 1, 2, 3, 4, and 5 will be held on the dates and times specified in the course schedules of the relevant years.",
+    "*** Calendars for departmental and non-departmental elective courses other than medical committees and medical course committees, as well as courses with codes AİT, TUR, YDL, operate according to the general academic calendar."
+  ],
+  "islemler": [
+    {
+      "islem": "Start of course registration",
+      "emoji": "🖊️",
+      "donem1": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Start of tuition fee payments",
+      "emoji": "💰",
+      "donem1": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Orientation week",
+      "emoji": "🧭",
+      "donem1": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Start of classes",
+      "emoji": "🚀",
+      "donem1": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "End of course registration",
+      "emoji": "✅",
+      "donem1": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "07.07.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "End of tuition fee payments",
+      "emoji": "💳",
+      "donem1": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "07.07.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Start of semester break",
+      "emoji": "⏸️",
+      "donem1": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem2": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem3": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem4": { "tarih": "09.01.2026", "isVurgulu": false },
+      "donem5": { "tarih": "09.01.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "End of semester break",
+      "emoji": "▶️",
+      "donem1": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem2": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem3": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem4": { "tarih": "19.01.2026", "isVurgulu": false },
+      "donem5": { "tarih": "19.01.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "End of classes",
+      "emoji": "🏁",
+      "donem1": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem2": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem3": { "tarih": "12.06.2026", "isVurgulu": false },
+      "donem4": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem5": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Start of year-end exams",
+      "emoji": "✍️",
+      "donem1": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem2": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem3": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem4": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem5": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "End of year-end exams",
+      "emoji": "🎉",
+      "donem1": { "tarih": "10.07.2026", "isVurgulu": false },
+      "donem2": { "tarih": "10.07.2026", "isVurgulu": false },
+      "donem3": { "tarih": "16.07.2026", "isVurgulu": false },
+      "donem4": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem5": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem6": { "tarih": "26.06.2026", "isVurgulu": false }
+    }
+  ]
+}
