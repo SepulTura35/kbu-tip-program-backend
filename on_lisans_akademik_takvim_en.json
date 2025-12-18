@@ -1,0 +1,306 @@
+{
+  "baslik": "KARABUK UNIVERSITY 2025-2026 ACADEMIC YEAR ASSOCIATE / UNDERGRADUATE ACADEMIC CALENDAR",
+  "not": "*Exam dates for AİİT, TUR, YDİ will be determined by our University's Exam Center.",
+  "islemler": [
+    {
+      "islem": "Deadline for entering announced courses into the student automation system",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "August 22, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "January 09, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for preparing and announcing course schedules",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "August 29, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "January 16, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Payment of student contribution fee / tuition fees",
+      "emoji": "💰",
+      "guzYariyili": {
+        "tarih": "September 4-12, 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "January 22-30, 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Course selection week",
+      "emoji": "📚",
+      "guzYariyili": {
+        "tarih": "September 8-12, 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "January 26-30, 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Deadline for advisor approval regarding course selections",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "September 13, 2025 (23:59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "January 31, 2026 (23:59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Senior students requesting extra ECTS must submit a petition to the relevant Dean's Office/Directorate",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "September 15-16, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "February 2-3, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for notifying the Department of Student Affairs of decisions regarding senior students requesting extra ECTS",
+      "emoji": "📤",
+      "guzYariyili": {
+        "tarih": "September 19, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "February 13, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Late tuition payment for students who missed the deadline and course add-drop week",
+      "emoji": "🔄",
+      "guzYariyili": {
+        "tarih": "September 15-19, 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "February 9-13, 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Start of classes",
+      "emoji": "🚀",
+      "guzYariyili": {
+        "tarih": "September 15, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "February 9, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for registration freeze applications for associate and undergraduate programs (excluding lateral/vertical transfers, additional placements, etc.)",
+      "emoji": "⏸️",
+      "guzYariyili": {
+        "tarih": "September 19, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "February 6, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Exemption exam for YÖK common compulsory courses (Aİİ, TUR, YDİ)*",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "September 20, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for advisor approval regarding course selections made during add-drop week",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "September 20, 2025 (23:59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "February 7, 2026 (23:59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Course addition period for students who passed the exemption exam for YÖK common compulsory courses (Aİİ, TUR, YDİ)",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "September 22-23, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Midterm exam week",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "November 1-9, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "March 28 - April 5, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Excuse exam week",
+      "emoji": "🧑‍⚕️",
+      "guzYariyili": {
+        "tarih": "November 17-21, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "April 13-17, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for entering midterm exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "November 28, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "April 24, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for entering and announcing final exam schedules in the student automation system",
+      "emoji": "🗓️",
+      "guzYariyili": {
+        "tarih": "December 12, 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "May 8, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "End of classes",
+      "emoji": "🏁",
+      "guzYariyili": {
+        "tarih": "December 26, 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "May 22, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Final exams",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "December 27, 2025 - January 9, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "May 23 - June 5, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Entering final exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "December 27, 2025 - January 10, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "June 1-15, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Make-up exams",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "January 12-18, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "June 17-23, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Entering make-up exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "January 12-19, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "June 17-24, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Deadline for single course exam applications to the relevant Dean's Office/Directorate",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "January 30, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "June 26, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Single course exam",
+      "emoji": "🧑‍🏫",
+      "guzYariyili": {
+        "tarih": "February 2, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "June 29, 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Entering single course exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "February 3, 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "June 30, 2026",
+        "isVurgulu": false
+      }
+    }
+  ]
+}
