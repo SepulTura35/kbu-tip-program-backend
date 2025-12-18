@@ -1,0 +1,453 @@
+{
+  "baslik": "KARABUK UNIVERSITY 2025-2026 ACADEMIC YEAR GRADUATE ACADEMIC CALENDAR",
+  "islemler": [
+    {
+      "islem": "Applications for distance education non-thesis master's degree candidates",
+      "emoji": "💻",
+      "guzYariyili": {
+        "tarih": "July 14 - 28, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Applications will not be accepted for distance education non-thesis master's programs in the Spring Semester."
+      }
+    },
+    {
+      "islem": "Announcement of application results for distance education non-thesis master's candidates",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "July 29, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Applications will not be accepted for distance education non-thesis master's programs in the Spring Semester."
+      }
+    },
+    {
+      "islem": "Registration of admitted students for distance education non-thesis master's programs",
+      "emoji": "🖊️",
+      "guzYariyili": {
+        "tarih": "July 30 - August 3, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Applications will not be accepted for distance education non-thesis master's programs in the Spring Semester."
+      }
+    },
+    {
+      "islem": "Announcement and registration of reserve students for distance education non-thesis master's programs",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "August 4 - 8, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Applications will not be accepted for distance education non-thesis master's programs in the Spring Semester."
+      }
+    },
+    {
+      "islem": "Applications for thesis master's and doctoral degree candidates",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "July 14 - 28, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 15 - 20, 2026 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Announcement of application results for thesis master's and doctoral candidates",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "July 30, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 21, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Entrance exams for thesis master's and doctoral candidates (For departments accepting via exam)",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "July 31, 2025 (10:00)\nWritten Science Exam\nAugust 01, 2025 (10:00)\nInterview Exam (13:30)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 22, 2026 (10:00)\nWritten Science Exam\nJanuary 23, 2026 (10:00)\nInterview Exam (13:30)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Announcement of application results for thesis master's and doctoral candidates",
+      "emoji": "🏅",
+      "guzYariyili": {
+        "tarih": "August 5, 2025",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 27, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Final registration for thesis master's and doctoral programs",
+      "emoji": "🖊️",
+      "guzYariyili": {
+        "tarih": "August 6 - 10, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 27 - 30, 2026 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Announcement and registration of reserve students for thesis master's and doctoral programs",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "August 11 - 15, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "February 2 - 3, 2026 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for lateral transfer applications for graduate programs",
+      "emoji": "➡️",
+      "guzYariyili": {
+        "tarih": "August 19 - 20, 2025 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "February 12 - 13, 2026 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for registration freeze applications for graduate programs",
+      "emoji": "⏸️",
+      "guzYariyili": {
+        "tarih": "September 19, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "February 13, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for entering opened courses into the student automation system",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "August 22, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 09, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for preparing and announcing course schedules",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "August 29, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 16, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Applications for unfilled quotas in thesis master's and doctoral programs",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "August 29, 2025 - September 2, 2025 (10:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Student admission for unfilled quotas will not be made in the Spring semester."
+      }
+    },
+    {
+      "islem": "Entrance exams for thesis master's and doctoral candidates (For departments accepting via exam)",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "September 3, 2025 (10:00)\nWritten Science Exam\nSeptember 4, 2025 (10:00)\nInterview Exam (13:30)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Student admission for unfilled quotas will not be made in the Spring semester."
+      }
+    },
+    {
+      "islem": "Announcement of application results for unfilled quotas in thesis master's and doctoral programs",
+      "emoji": "🏅",
+      "guzYariyili": {
+        "tarih": "September 5, 2025",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Student admission for unfilled quotas will not be made in the Spring semester."
+      }
+    },
+    {
+      "islem": "Final registration of students admitted to unfilled quotas in thesis master's and doctoral programs",
+      "emoji": "🖊️",
+      "guzYariyili": {
+        "tarih": "September 5 - 10, 2025 (17:00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Student admission for unfilled quotas will not be made in the Spring semester."
+      }
+    },
+    {
+      "islem": "Payment of student contribution fee / tuition fees",
+      "emoji": "💰",
+      "guzYariyili": {
+        "tarih": "September 4 - 12, 2025 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 22 - 30, 2026 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Course selection week",
+      "emoji": "📚",
+      "guzYariyili": {
+        "tarih": "September 8 - 12, 2025 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 26 - 30, 2026 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for advisor approval regarding course selections",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "September 13, 2025 (23:59)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "January 31, 2026 (23:59)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Late tuition payment for those who missed the deadline and course add/drop week",
+      "emoji": "🔄",
+      "guzYariyili": {
+        "tarih": "September 15 - 19, 2025 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "February 9 - 13, 2026 (17:00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Start of classes",
+      "emoji": "🚀",
+      "guzYariyili": {
+        "tarih": "September 15, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "February 9, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for advisor approval regarding course selections made during add-drop week",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "September 20, 2025 (23:59)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "February 7, 2026 (23:59)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Midterm exam week",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "November 1-9, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "March 28 - April 5, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for entering midterm exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "November 28, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "April 24, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Deadline for entering and announcing final exam schedules in the student automation system",
+      "emoji": "🗓️",
+      "guzYariyili": {
+        "tarih": "December 12, 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "May 8, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "End of classes",
+      "emoji": "🏁",
+      "guzYariyili": {
+        "tarih": "December 26, 2025",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "May 22, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Final exams",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "December 27, 2025 - January 9, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "June 1-14, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Entering final exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "December 27, 2025 - January 10, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "June 1 - 15, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Make-up exams",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "January 12 - 18, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "June 17 - 23, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Entering make-up exam results into the student automation system",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "January 12 - 19, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "June 17 - 24, 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    }
+  ]
+}
