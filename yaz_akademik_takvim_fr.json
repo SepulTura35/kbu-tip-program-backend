@@ -1,0 +1,151 @@
+{
+  "baslik": "UNIVERSITÉ DE KARABUK CALENDRIER ACADÉMIQUE DE L'ÉCOLE D'ÉTÉ 2025 - 2026",
+  "takvim": [
+    {
+      "tarih": "15 Juin 2026",
+      "islem": "Annonce des cours à ouvrir sur les pages web par les Décanats/Directions",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "📢"
+    },
+    {
+      "tarih": "29 Juin - 3 Juillet 2026",
+      "islem": "Procédures de sélection des cours et paiement des frais de scolarité",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "📚"
+    },
+    {
+      "tarih": "6-7 Juillet 2026",
+      "islem": "Procédures d'ajout de cours et paiement des frais de scolarité",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🔄"
+    },
+    {
+      "tarih": "7 Juillet 2026 (16h00)",
+      "islem": "Date limite d'inscription pour les étudiants invités",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🎓"
+    },
+    {
+      "tarih": null,
+      "islem": "DÉBUT DES COURS",
+      "isBaslik": true,
+      "isVurgulu": true,
+      "emoji": "🚀"
+    },
+    {
+      "tarih": "6-10 Juillet 2026",
+      "islem": "Cours de la semaine 1",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "1️⃣"
+    },
+    {
+      "tarih": "13-17 Juillet 2026",
+      "islem": "Cours de la semaine 2",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "2️⃣"
+    },
+    {
+      "tarih": "20-24 Juillet 2026",
+      "islem": "Cours de la semaine 3",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "3️⃣"
+    },
+    {
+      "tarih": "27-31 Juillet 2026",
+      "islem": "Cours de la semaine 4",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "4️⃣"
+    },
+    {
+      "tarih": "3-7 Août 2026",
+      "islem": "Cours de la semaine 5",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "5️⃣"
+    },
+    {
+      "tarih": "10-14 Août 2026",
+      "islem": "Cours de la semaine 6",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "6️⃣"
+    },
+    {
+      "tarih": "17-21 Août 2026",
+      "islem": "Cours de la semaine 7",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "7️⃣"
+    },
+    {
+      "tarih": null,
+      "islem": "FIN DES COURS",
+      "isBaslik": true,
+      "isVurgulu": true,
+      "emoji": "🏁"
+    },
+    {
+      "tarih": "21 Août 2026",
+      "islem": "Dernier jour des cours",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🏁"
+    },
+    {
+      "tarih": "22-28 Août 2026",
+      "islem": "Examens généraux",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "✍️"
+    },
+    {
+      "tarih": "22-29 Août 2026",
+      "islem": "Saisie des résultats des examens généraux dans le système d'automatisation des étudiants",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🖥️"
+    },
+    {
+      "tarih": "31 Août 2026",
+      "islem": "Candidature à l'examen de cours unique auprès du Décanat/de la Direction concerné(e)",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "📝"
+    },
+    {
+      "tarih": "2 Septembre 2026",
+      "islem": "Examen de cours unique",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "tarih": "2-3 Septembre 2026",
+      "islem": "Saisie des résultats de l'examen de cours unique dans le système d'automatisation des étudiants",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🖥️"
+    }
+  ],
+  "notlar": [
+    "- Les instructeurs souhaitant ouvrir un cours doivent en faire la demande en personne auprès des chefs de département, et les cours à ouvrir dans les départements concernés doivent être déterminés,",
+    "- Notification aux Décanats/Directions concernés afin que les demandes de cours puissent être faites entre les départements/programmes parmi les cours attendus,",
+    "- Notification des cours à ouvrir par les Décanats/Directions aux autres Décanats/Directions dans le but de fusionner les cours entre les unités,",
+    "- Transmission aux unités concernées des décisions du Conseil d'administration concernant les fusions de cours prises par les Décanats/Directions,",
+    "- Saisie des cours ouverts dans le Système d'Information Étudiant (OBS),",
+    "- Prise d'une décision du Conseil d'administration et soumission au Conseil d'administration de l'Université concernant les cours dont l'ouverture est demandée malgré le respect du niveau minimum de demande,",
+    "- Organisation et annonce des horaires de cours,",
+    "les procédures doivent être achevées au plus tard le 16 Juin 2026.",
+    "De plus ; l'unité qui ouvrira les cours obligatoires communs doit être signalée par les Décanats/Directions et au Département des Affaires Étudiantes avant le 9 Juin 2026.",
+    "À compter du 15 Juin 2026, le système sera fermé pour les procédures de sélection et de fermeture des cours, et la fermeture/mise à jour/ouverture des cours devra être effectuée les 4 et 5 Juillet 2026 pour les cours qui doivent être fermés à la fin de la période d'inscription aux sous-cours.",
+    "En cas de conflit dans les cours que les étudiants souhaitent suivre dans les programmes déterminés, le système d'automatisation ne permettra pas le processus de sélection des cours."
+  ]
+}
