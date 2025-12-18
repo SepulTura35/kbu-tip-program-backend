@@ -1,0 +1,151 @@
+{
+  "baslik": "KARABUK UNIVERSITY 2025 - 2026 ACADEMIC YEAR SUMMER SCHOOL ACADEMIC CALENDAR",
+  "takvim": [
+    {
+      "tarih": "June 15, 2026",
+      "islem": "Announcement of courses to be opened on the web pages by Deanships/Directorates",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "📢"
+    },
+    {
+      "tarih": "June 29 - July 3, 2026",
+      "islem": "Course selection procedures and payment of tuition fees",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "📚"
+    },
+    {
+      "tarih": "July 6-7, 2026",
+      "islem": "Course addition procedures and payment of tuition fees",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🔄"
+    },
+    {
+      "tarih": "July 7, 2026 (16:00)",
+      "islem": "Deadline for guest student registration",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🎓"
+    },
+    {
+      "tarih": null,
+      "islem": "START OF CLASSES",
+      "isBaslik": true,
+      "isVurgulu": true,
+      "emoji": "🚀"
+    },
+    {
+      "tarih": "July 6-10, 2026",
+      "islem": "Week 1 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "1️⃣"
+    },
+    {
+      "tarih": "July 13-17, 2026",
+      "islem": "Week 2 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "2️⃣"
+    },
+    {
+      "tarih": "July 20-24, 2026",
+      "islem": "Week 3 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "3️⃣"
+    },
+    {
+      "tarih": "July 27-31, 2026",
+      "islem": "Week 4 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "4️⃣"
+    },
+    {
+      "tarih": "August 3-7, 2026",
+      "islem": "Week 5 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "5️⃣"
+    },
+    {
+      "tarih": "August 10-14, 2026",
+      "islem": "Week 6 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "6️⃣"
+    },
+    {
+      "tarih": "August 17-21, 2026",
+      "islem": "Week 7 Classes",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "7️⃣"
+    },
+    {
+      "tarih": null,
+      "islem": "END OF CLASSES",
+      "isBaslik": true,
+      "isVurgulu": true,
+      "emoji": "🏁"
+    },
+    {
+      "tarih": "August 21, 2026",
+      "islem": "Last day of classes",
+      "isBaslik": false,
+      "isVurgulu": true,
+      "emoji": "🏁"
+    },
+    {
+      "tarih": "August 22-28, 2026",
+      "islem": "General exams",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "✍️"
+    },
+    {
+      "tarih": "August 22-29, 2026",
+      "islem": "Entering general exam results into the student automation system",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🖥️"
+    },
+    {
+      "tarih": "August 31, 2026",
+      "islem": "Applications for single course exam to the relevant Deanship/Directorate",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "📝"
+    },
+    {
+      "tarih": "September 2, 2026",
+      "islem": "Single course exam",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "tarih": "September 2-3, 2026",
+      "islem": "Entering single course exam results into the student automation system",
+      "isBaslik": false,
+      "isVurgulu": false,
+      "emoji": "🖥️"
+    }
+  ],
+  "notlar": [
+    "- Instructors wishing to open a course must apply in person to the Department Heads, and the courses to be opened in the relevant departments must be determined,",
+    "- Notification to the relevant Deanships/Directorates so that course requests can be made between departments/programs among the expected courses,",
+    "- Notification of the courses to be opened by Deanships/Directorates to other Deanships/Directorates for the purpose of merging courses between units,",
+    "- Transmission of Board Decisions regarding course mergers made by Deanships/Directorates to the relevant units,",
+    "- Entering the opened courses into the Student Information System (OBS),",
+    "- Taking a Board Decision and submitting it to the University Administrative Board regarding courses that are requested to be opened despite meeting the minimum demand level,",
+    "- Arrangement and announcement of course schedules,",
+    "procedures must be completed by June 16, 2026 at the latest.",
+    "Additionally; which unit will open the common compulsory courses must be reported by the Deanships/Directorates and to the Department of Student Affairs by June 9, 2026.",
+    "As of June 15, 2026, the system will be closed for course selection and closing procedures, and course closing/updating/opening must be done on July 4-5, 2026 for courses that need to be closed at the end of the sub-course registration period.",
+    "In case of a conflict in the courses students wish to take in the determined programs, the automation system will not allow the course selection process."
+  ]
+}
