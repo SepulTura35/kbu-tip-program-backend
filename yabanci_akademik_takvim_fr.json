@@ -1,0 +1,105 @@
+{
+  "baslik": "UNIVERSITÉ DE KARABUK CALENDRIER ACADÉMIQUE DE L'ÉCOLE DES LANGUES ÉTRANGÈRES 2025-2026",
+  "sflCalendar": {
+    "baslik": "Calendrier Académique SFL 2025 - 2026",
+    "fallTerm": [
+      {
+        "date": "08.09.2025",
+        "day": "Lundi",
+        "event": "Test de Placement Obligatoire¹ et Examen de Compétence²",
+        "isVurgulu": true,
+        "emoji": "❗"
+      },
+      {
+        "date": "08.09.2025",
+        "day": "Lundi",
+        "event": "Début des Cours",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "date": "16.01.2026",
+        "day": "Vendredi",
+        "event": "Fin des Cours",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ],
+    "springTerm": [
+      {
+        "date": "02.02.2026",
+        "day": "Lundi",
+        "event": "Début des Cours",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "date": "19.06.2026",
+        "day": "Vendredi",
+        "event": "Fin des Cours",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ]
+  },
+  "ydyCalendar": {
+    "baslik": "Calendrier Académique YDY 2025 - 2026",
+    "guzDonemi": [
+      {
+        "tarih": "08.09.2025",
+        "gun": "Lundi",
+        "islem": "Test de Placement Obligatoire¹ et Examen de Compétence²",
+        "isVurgulu": true,
+        "emoji": "❗"
+      },
+      {
+        "tarih": "08.09.2025",
+        "gun": "Lundi",
+        "islem": "Début des Cours",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "tarih": "16.01.2026",
+        "gun": "Vendredi",
+        "islem": "Fin des Cours",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ],
+    "baharDonemi": [
+      {
+        "tarih": "02.02.2026",
+        "gun": "Lundi",
+        "islem": "Début des Cours",
+        "isVurgulu": false,
+        "emoji": "🚀"
+      },
+      {
+        "tarih": "19.06.2026",
+        "gun": "Vendredi",
+        "islem": "Fin des Cours",
+        "isVurgulu": false,
+        "emoji": "🏁"
+      }
+    ]
+  },
+  "notlar": [
+    {
+      "dil": "en",
+      "metin": "¹ Tous les étudiants sont tenus de passer le Test de Placement. Les étudiants qui ne passent pas ce test ne peuvent pas commencer le programme préparatoire d'anglais."
+    },
+    {
+      "dil": "en",
+      "metin": "² Les étudiants placés au Niveau 4 (B1+/B2) sur la base des résultats de leur Test de Placement sont éligibles pour passer l'Examen de Compétence. Veuillez consulter la page Calendrier des Examens sous le menu Étudiant sur sfl.karabuk.edu.tr pour les dates d'examen et plus de détails."
+    },
+    {
+      "dil": "tr",
+      "metin": "¹ La participation au Test de Placement est obligatoire pour tous les étudiants. Les étudiants qui ne participent pas à cet examen ne peuvent pas commencer leur formation dans le programme préparatoire d'anglais."
+    },
+    {
+      "dil": "tr",
+      "metin": "² Les étudiants évalués au Niveau 4 (B1+/B2) à la suite du Test de Placement ont le droit de passer l'Examen de Compétence. Veuillez suivre la page Calendrier des Examens dans le menu Étudiant à l'adresse sfl.karabuk.edu.tr pour les dates d'examen et autres détails."
+    }
+  ]
+}
