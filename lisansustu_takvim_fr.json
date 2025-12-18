@@ -1,0 +1,453 @@
+{
+  "baslik": "UNIVERSITÉ DE KARABUK CALENDRIER ACADÉMIQUE DES ÉTUDES SUPÉRIEURES 2025-2026",
+  "islemler": [
+    {
+      "islem": "Candidatures des étudiants au master sans thèse à distance",
+      "emoji": "💻",
+      "guzYariyili": {
+        "tarih": "14 - 28 Juillet 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Les candidatures ne seront pas acceptées pour les programmes de master sans thèse à distance au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Annonce des résultats des candidatures des étudiants au master sans thèse à distance",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "29 Juillet 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Les candidatures ne seront pas acceptées pour les programmes de master sans thèse à distance au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Inscription définitive des étudiants admis aux programmes de master sans thèse à distance",
+      "emoji": "🖊️",
+      "guzYariyili": {
+        "tarih": "30 Juillet - 3 Août 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Les candidatures ne seront pas acceptées pour les programmes de master sans thèse à distance au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Annonce et inscription des étudiants de la liste de réserve pour les programmes de master sans thèse à distance",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "4 - 8 Août 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Les candidatures ne seront pas acceptées pour les programmes de master sans thèse à distance au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Candidatures des étudiants au master avec thèse et au doctorat",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "14 - 28 Juillet 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "15 - 20 Janvier 2026 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Annonce des résultats des candidatures des étudiants au master avec thèse et au doctorat",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "30 Juillet 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "21 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Examens d'entrée pour les candidats au master avec thèse et au doctorat (Pour les départements recrutant sur examen)",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "31 Juillet 2025 (10h00)\nExamen écrit scientifique\n01 Août 2025 (10h00)\nEntretien oral (13h30)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "22 Janvier 2026 (10h00)\nExamen écrit scientifique\n23 Janvier 2026 (10h00)\nEntretien oral (13h30)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Annonce des résultats des candidatures des étudiants au master avec thèse et au doctorat",
+      "emoji": "🏅",
+      "guzYariyili": {
+        "tarih": "5 Août 2025",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "27 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Inscription définitive aux programmes de master avec thèse et de doctorat",
+      "emoji": "🖊️",
+      "guzYariyili": {
+        "tarih": "6 - 10 Août 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "27 - 30 Janvier 2026 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Annonce et inscription des étudiants de la liste de réserve pour les programmes de master avec thèse et de doctorat",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "11 - 15 Août 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "2 - 3 Février 2026 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite de candidature pour les transferts latéraux (programmes d'études supérieures)",
+      "emoji": "➡️",
+      "guzYariyili": {
+        "tarih": "19 - 20 Août 2025 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "12 - 13 Février 2026 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite de demande de gel d'inscription pour les programmes d'études supérieures",
+      "emoji": "⏸️",
+      "guzYariyili": {
+        "tarih": "19 Septembre 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "13 Février 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite pour saisir les cours ouverts dans le système d'automatisation des étudiants",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "22 Août 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "09 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite de préparation et d'annonce des programmes de cours",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "29 Août 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "16 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Candidatures pour les quotas vacants des programmes de master avec thèse et de doctorat",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "29 Août 2025 - 2 Septembre 2025 (10h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Aucun étudiant ne sera admis aux quotas vacants au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Examens d'entrée pour les candidats au master avec thèse et au doctorat (Pour les départements recrutant sur examen)",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "3 Septembre 2025 (10h00)\nExamen écrit scientifique\n4 Septembre 2025 (10h00)\nEntretien oral (13h30)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Aucun étudiant ne sera admis aux quotas vacants au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Annonce des résultats des candidatures pour les quotas vacants des programmes de master avec thèse et de doctorat",
+      "emoji": "🏅",
+      "guzYariyili": {
+        "tarih": "5 Septembre 2025",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Aucun étudiant ne sera admis aux quotas vacants au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Inscription définitive des étudiants admis aux quotas vacants des programmes de master avec thèse et de doctorat",
+      "emoji": "🖊️",
+      "guzYariyili": {
+        "tarih": "5 - 10 Septembre 2025 (17h00)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false,
+        "aciklama": "Aucun étudiant ne sera admis aux quotas vacants au semestre de printemps."
+      }
+    },
+    {
+      "islem": "Paiement de la contribution étudiante / des frais de scolarité",
+      "emoji": "💰",
+      "guzYariyili": {
+        "tarih": "4 - 12 Septembre 2025 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "22 - 30 Janvier 2026 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Semaine de sélection des cours",
+      "emoji": "📚",
+      "guzYariyili": {
+        "tarih": "8 - 12 Septembre 2025 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "26 - 30 Janvier 2026 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite pour l'approbation du conseiller concernant le choix des cours",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "13 Septembre 2025 (23h59)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "31 Janvier 2026 (23h59)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Paiement tardif des frais de scolarité pour ceux n'ayant pas payé à temps et semaine d'ajout/suppression de cours",
+      "emoji": "🔄",
+      "guzYariyili": {
+        "tarih": "15 - 19 Septembre 2025 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "9 - 13 Février 2026 (17h00)",
+        "isVurgulu": true,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Début des cours",
+      "emoji": "🚀",
+      "guzYariyili": {
+        "tarih": "15 Septembre 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "9 Février 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite pour l'approbation du conseiller concernant les choix de cours effectués pendant la semaine d'ajout/suppression",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "20 Septembre 2025 (23h59)",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "7 Février 2026 (23h59)",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Semaine des examens de mi-semestre",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "1-9 Novembre 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "28 Mars - 5 Avril 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite pour la saisie des résultats des examens de mi-semestre dans le système d'automatisation des étudiants",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "28 Novembre 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "24 Avril 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Date limite pour la saisie et l'annonce du programme des examens de fin de semestre dans le système",
+      "emoji": "🗓️",
+      "guzYariyili": {
+        "tarih": "12 Décembre 2025",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "8 Mai 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Fin des cours",
+      "emoji": "🏁",
+      "guzYariyili": {
+        "tarih": "26 Décembre 2025",
+        "isVurgulu": true,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "22 Mai 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Examens de fin de semestre",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "27 Décembre 2025 - 9 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "1-14 Juin 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Saisie des résultats des examens de fin de semestre dans le système",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "27 Décembre 2025 - 10 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "1 - 15 Juin 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Examens de rattrapage",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "12 - 18 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "17 - 23 Juin 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    },
+    {
+      "islem": "Saisie des résultats des examens de rattrapage dans le système",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "12 - 19 Janvier 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      },
+      "baharYariyili": {
+        "tarih": "17 - 24 Juin 2026",
+        "isVurgulu": false,
+        "aciklama": null
+      }
+    }
+  ]
+}
