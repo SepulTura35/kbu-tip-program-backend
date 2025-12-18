@@ -1,0 +1,120 @@
+{
+  "baslik": "UNIVERSITÉ DE KARABUK FACULTÉ DE MÉDECINE CALENDRIER ACADÉMIQUE 2025-2026",
+  "notlar": [
+    "* La formation sur la santé et la sécurité au travail pour les années 4, 5 et 6 sera dispensée pendant la semaine d'orientation à un moment jugé approprié par l'Hôpital de Formation et de Recherche de Karabuk.",
+    "** Les examens de comité, les examens de comité de cours, ainsi que les examens de fin d'année et de rattrapage pour les années 1, 2, 3, 4 et 5 se tiendront aux dates et heures indiquées dans les programmes de cours des années concernées.",
+    "*** Les calendriers des cours électifs départementaux et non départementaux autres que les comités médicaux et les comités de cours médicaux, ainsi que les cours portant les codes AİT, TUR, YDL, fonctionnent selon le calendrier académique général."
+  ],
+  "islemler": [
+    {
+      "islem": "Début des inscriptions aux cours",
+      "emoji": "🖊️",
+      "donem1": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Début du paiement des frais de scolarité",
+      "emoji": "💰",
+      "donem1": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "01.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Semaine d'orientation",
+      "emoji": "🧭",
+      "donem1": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Début des cours",
+      "emoji": "🚀",
+      "donem1": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "15.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "08.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2025", "isVurgulu": false }
+    },
+    {
+      "islem": "Fin des inscriptions aux cours",
+      "emoji": "✅",
+      "donem1": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "07.07.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Fin du paiement des frais de scolarité",
+      "emoji": "💳",
+      "donem1": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem2": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem3": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem4": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem5": { "tarih": "30.09.2025", "isVurgulu": false },
+      "donem6": { "tarih": "07.07.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Début des vacances semestrielles",
+      "emoji": "⏸️",
+      "donem1": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem2": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem3": { "tarih": "23.01.2026", "isVurgulu": false },
+      "donem4": { "tarih": "09.01.2026", "isVurgulu": false },
+      "donem5": { "tarih": "09.01.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Fin des vacances semestrielles",
+      "emoji": "▶️",
+      "donem1": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem2": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem3": { "tarih": "09.02.2026", "isVurgulu": false },
+      "donem4": { "tarih": "19.01.2026", "isVurgulu": false },
+      "donem5": { "tarih": "19.01.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Fin des cours",
+      "emoji": "🏁",
+      "donem1": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem2": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem3": { "tarih": "12.06.2026", "isVurgulu": false },
+      "donem4": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem5": { "tarih": "05.06.2026", "isVurgulu": false },
+      "donem6": { "tarih": "30.06.2026", "isVurgulu": false }
+    },
+    {
+      "islem": "Début des examens de fin d'année",
+      "emoji": "✍️",
+      "donem1": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem2": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem3": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem4": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem5": { "tarih": "22.06.2026", "isVurgulu": false },
+      "donem6": { "tarih": null, "isVurgulu": false }
+    },
+    {
+      "islem": "Fin des examens de fin d'année",
+      "emoji": "🎉",
+      "donem1": { "tarih": "10.07.2026", "isVurgulu": false },
+      "donem2": { "tarih": "10.07.2026", "isVurgulu": false },
+      "donem3": { "tarih": "16.07.2026", "isVurgulu": false },
+      "donem4": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem5": { "tarih": "01.07.2026", "isVurgulu": false },
+      "donem6": { "tarih": "26.06.2026", "isVurgulu": false }
+    }
+  ]
+}
