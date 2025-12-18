@@ -1,0 +1,306 @@
+{
+  "baslik": "UNIVERSITÉ DE KARABUK CALENDRIER ACADÉMIQUE DE PREMIER CYCLE / LICENCE 2025-2026",
+  "not": "*Les dates des examens AİİT, TUR, YDİ seront déterminées par le Centre d'Examens de notre Université.",
+  "islemler": [
+    {
+      "islem": "Date limite pour saisir les cours annoncés dans le système d'automatisation des étudiants",
+      "emoji": "📢",
+      "guzYariyili": {
+        "tarih": "22 Août 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "09 Janvier 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite de préparation et d'annonce des programmes de cours",
+      "emoji": "📋",
+      "guzYariyili": {
+        "tarih": "29 Août 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "16 Janvier 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Paiement de la contribution étudiante / des frais de scolarité",
+      "emoji": "💰",
+      "guzYariyili": {
+        "tarih": "4-12 Septembre 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "22-30 Janvier 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Semaine de sélection des cours",
+      "emoji": "📚",
+      "guzYariyili": {
+        "tarih": "8-12 Septembre 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "26-30 Janvier 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Date limite pour l'approbation du conseiller concernant le choix des cours",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "13 Septembre 2025 (23h59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "31 Janvier 2026 (23h59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Les étudiants de dernière année demandant des crédits ECTS supplémentaires doivent soumettre une pétition au Bureau du Doyen/à la Direction concerné(e)",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "15-16 Septembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "2-3 Février 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite pour notifier au Département des Affaires Étudiantes les décisions concernant les étudiants de dernière année demandant des crédits ECTS supplémentaires",
+      "emoji": "📤",
+      "guzYariyili": {
+        "tarih": "19 Septembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "13 Février 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Paiement tardif des frais de scolarité pour les étudiants n'ayant pas payé à temps et semaine d'ajout/suppression de cours",
+      "emoji": "🔄",
+      "guzYariyili": {
+        "tarih": "15-19 Septembre 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "9-13 Février 2026",
+        "isVurgulu": true
+      }
+    },
+    {
+      "islem": "Début des cours",
+      "emoji": "🚀",
+      "guzYariyili": {
+        "tarih": "15 Septembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "9 Février 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite de demande de gel d'inscription pour les programmes de premier cycle et de licence (hors transferts latéraux/verticaux, placements supplémentaires, etc.)",
+      "emoji": "⏸️",
+      "guzYariyili": {
+        "tarih": "19 Septembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "6 Février 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Examen d'exemption pour les cours obligatoires communs YÖK (Aİİ, TUR, YDİ)*",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "20 Septembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite pour l'approbation du conseiller concernant les choix de cours effectués pendant la semaine d'ajout/suppression",
+      "emoji": "✅",
+      "guzYariyili": {
+        "tarih": "20 Septembre 2025 (23h59)",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "7 Février 2026 (23h59)",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Période d'ajout de cours pour les étudiants ayant réussi l'examen d'exemption des cours obligatoires communs YÖK (Aİİ, TUR, YDİ)",
+      "emoji": "🎓",
+      "guzYariyili": {
+        "tarih": "22-23 Septembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": null,
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Semaine des examens de mi-semestre",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "1-9 Novembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "28 Mars - 5 Avril 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Semaine des examens d'excuse (rattrapage pour absence justifiée)",
+      "emoji": "🧑‍⚕️",
+      "guzYariyili": {
+        "tarih": "17-21 Novembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "13-17 Avril 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite pour la saisie des résultats des examens de mi-semestre dans le système d'automatisation des étudiants",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "28 Novembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "24 Avril 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite pour la saisie et l'annonce du programme des examens de fin de semestre dans le système",
+      "emoji": "🗓️",
+      "guzYariyili": {
+        "tarih": "12 Décembre 2025",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "8 Mai 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Fin des cours",
+      "emoji": "🏁",
+      "guzYariyili": {
+        "tarih": "26 Décembre 2025",
+        "isVurgulu": true
+      },
+      "baharYariyili": {
+        "tarih": "22 Mai 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Examens de fin de semestre",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "27 Décembre 2025 - 9 Janvier 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "23 Mai - 5 Juin 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Saisie des résultats des examens de fin de semestre dans le système",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "27 Décembre 2025 - 10 Janvier 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "1-15 Juin 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Examens de rattrapage",
+      "emoji": "✍️",
+      "guzYariyili": {
+        "tarih": "12-18 Janvier 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "17-23 Juin 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Saisie des résultats des examens de rattrapage dans le système",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "12-19 Janvier 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "17-24 Juin 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Date limite de candidature à l'examen de cours unique auprès du Bureau du Doyen/de la Direction concerné(e)",
+      "emoji": "📝",
+      "guzYariyili": {
+        "tarih": "30 Janvier 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "26 Juin 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Examen de cours unique",
+      "emoji": "🧑‍🏫",
+      "guzYariyili": {
+        "tarih": "2 Février 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "29 Juin 2026",
+        "isVurgulu": false
+      }
+    },
+    {
+      "islem": "Saisie des résultats de l'examen de cours unique dans le système d'automatisation des étudiants",
+      "emoji": "🖥️",
+      "guzYariyili": {
+        "tarih": "3 Février 2026",
+        "isVurgulu": false
+      },
+      "baharYariyili": {
+        "tarih": "30 Juin 2026",
+        "isVurgulu": false
+      }
+    }
+  ]
+}
