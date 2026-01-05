@@ -1,300 +1,645 @@
 {
-  "ay": "December",
-  "yil": 2025,
+  "ay": "January",
+  "yil": 2026,
   "gunlukMenuler": [
     {
-      "tarih": "01.12.2025",
+      "tarih": "05.01.2026",
       "gun": "Monday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Lentil Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Haricot Beans with Meat", "kalori": 350, "emoji": "🍲" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Salad/Yogurt", "ad": "Tzatziki", "kalori": 100, "emoji": "🥒" }
+        {
+          "kategori": "Soup",
+          "ad": "Strained Lentil Soup",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Side Dish/Local",
+          "ad": "Mengen Style Rice",
+          "kalori": 150,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Kidney Beans (Barbunya)",
+          "kalori": 280,
+          "emoji": "🍲"
+        },
+        {
+          "kategori": "Salad/Yogurt",
+          "ad": "Tzatziki (Cacık)",
+          "kalori": 120,
+          "emoji": "🥒"
+        }
       ]
     },
     {
-      "tarih": "02.12.2025",
+      "tarih": "06.01.2026",
       "gun": "Tuesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Tarhana Soup", "kalori": 185, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Chicken Fajita with Puree", "kalori": 350, "emoji": "🍗" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Beverage", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+        {
+          "kategori": "Soup",
+          "ad": "Chicken Noodle Soup",
+          "kalori": 115,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Baked Potato",
+          "kalori": 250,
+          "emoji": "🥔"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Spaghetti",
+          "kalori": 236,
+          "emoji": "🍝"
+        },
+        {
+          "kategori": "Salad",
+          "ad": "Salad",
+          "kalori": 100,
+          "emoji": "🥗"
+        }
       ]
     },
     {
-      "tarih": "03.12.2025",
+      "tarih": "07.01.2026",
       "gun": "Wednesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Noodle Soup", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Spinach with Minced Meat and Egg / Chicken Nugget", "kalori": 150, "emoji": "🥘" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Salad/Yogurt", "ad": "Yogurt", "kalori": 100, "emoji": "🥛" }
+        {
+          "kategori": "Soup",
+          "ad": "Ezogelin Soup",
+          "kalori": 173,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Islim Meatballs (Wrapped Meatballs)",
+          "kalori": 308,
+          "emoji": "🧆"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Bulgur Pilaf with Vegetables",
+          "kalori": 290,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Beverage/Dessert",
+          "ad": "Compote",
+          "kalori": 190,
+          "emoji": "🍒"
+        }
       ]
     },
     {
-      "tarih": "04.12.2025",
+      "tarih": "08.01.2026",
       "gun": "Thursday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Keşkek Soup", "kalori": 180, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Seasoned Meatballs", "kalori": 375, "emoji": "🧆" },
-        { "kategori": "Side Dish", "ad": "Pasta", "kalori": 290, "emoji": "🍝" },
-        { "kategori": "Fruit", "ad": "Apple", "kalori": 50, "emoji": "🍎" }
+        {
+          "kategori": "Soup",
+          "ad": "Cream of Mushroom Soup",
+          "kalori": 160,
+          "emoji": "🍄"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Dry Beans (Sailor's Style)",
+          "kalori": 350,
+          "emoji": "🍲"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Rice Pilaf",
+          "kalori": 330,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Salad/Yogurt",
+          "ad": "Yogurt",
+          "kalori": 100,
+          "emoji": "🥛"
+        }
       ]
     },
     {
-      "tarih": "05.12.2025",
+      "tarih": "09.01.2026",
       "gun": "Friday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Saray Soup", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Olive Oil Dish", "ad": "Kidney Beans with Olive Oil", "kalori": 280, "emoji": "🫒" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Dessert", "ad": "Baklava", "kalori": 288, "emoji": "🍯" }
+        {
+          "kategori": "Soup",
+          "ad": "Tarhana Soup",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Shredded Chicken over Rice with Chickpeas",
+          "kalori": 370,
+          "emoji": "🍗"
+        },
+        {
+          "kategori": "Appetizer/Meze",
+          "ad": "Chee Kofta (Çiğ Köfte) - Pickles",
+          "kalori": 270,
+          "emoji": "🌯"
+        },
+        {
+          "kategori": "Beverage",
+          "ad": "Ayran",
+          "kalori": 100,
+          "emoji": "🥛"
+        }
       ]
     },
     {
-      "tarih": "08.12.2025",
+      "tarih": "12.01.2026",
       "gun": "Monday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Ezogelin Soup", "kalori": 173, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Chicken Doner", "kalori": 300, "emoji": "🥙" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf with Vegetables", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Beverage", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+        {
+          "kategori": "Soup",
+          "ad": "Vermicelli Soup",
+          "kalori": 115,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Chicken Doner / Fried Potatoes",
+          "kalori": 300,
+          "emoji": "🥙"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Rice Pilaf",
+          "kalori": 330,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Beverage",
+          "ad": "Ayran",
+          "kalori": 100,
+          "emoji": "🥛"
+        }
       ]
     },
     {
-      "tarih": "09.12.2025",
+      "tarih": "13.01.2026",
       "gun": "Tuesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Vegetable Soup", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Oven Baked Meatballs", "kalori": 290, "emoji": "🧆" },
-        { "kategori": "Side Dish", "ad": "Noodles", "kalori": 236, "emoji": "🍝" },
-        { "kategori": "Salad", "ad": "Salad", "kalori": 100, "emoji": "🥗" }
+        {
+          "kategori": "Soup",
+          "ad": "Wedding Soup (Düğün Çorbası)",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Green Beans / Nuggets-Fries",
+          "kalori": 435,
+          "emoji": "🍲"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Bulgur Pilaf",
+          "kalori": 290,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Dessert",
+          "ad": "Supangle (Chocolate Pudding)",
+          "kalori": 150,
+          "emoji": "🍫"
+        }
       ]
     },
     {
-      "tarih": "10.12.2025",
+      "tarih": "14.01.2026",
       "gun": "Wednesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Lentil Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Olive Oil Dish", "ad": "Peas", "kalori": 350, "emoji": "🫒" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Dessert", "ad": "Kadayıf", "kalori": 238, "emoji": "🍮" }
+        {
+          "kategori": "Soup",
+          "ad": "Lentil Soup",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Izmir Meatballs",
+          "kalori": 350,
+          "emoji": "🧆"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Pasta",
+          "kalori": 236,
+          "emoji": "🍝"
+        },
+        {
+          "kategori": "Salad",
+          "ad": "Salata",
+          "kalori": 100,
+          "emoji": "🥗"
+        }
       ]
     },
     {
-      "tarih": "11.12.2025",
+      "tarih": "15.01.2026",
       "gun": "Thursday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Yörük Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Arab Tava (Pan Roast)", "kalori": 180, "emoji": "🥘" },
-        { "kategori": "Side Dish", "ad": "Pasta", "kalori": 290, "emoji": "🍝" },
-        { "kategori": "Olive Oil Dish", "ad": "Chee Kofta (Çiğ Köfte)", "kalori": 220, "emoji": "🫒" }
+        {
+          "kategori": "Soup",
+          "ad": "Toyga Soup",
+          "kalori": 180,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Arap Tava (Tray Kebab)",
+          "kalori": 180,
+          "emoji": "🥘"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Borek (Pastry)",
+          "kalori": 236,
+          "emoji": "🥐"
+        },
+        {
+          "kategori": "Beverage",
+          "ad": "Fruit Juice / Ayran",
+          "kalori": 148,
+          "emoji": "🥤"
+        }
       ]
     },
     {
-      "tarih": "12.12.2025",
+      "tarih": "16.01.2026",
       "gun": "Friday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Noodle Soup", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Forest Kebab", "kalori": 286, "emoji": "🥘" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Fruit", "ad": "Fruit", "kalori": 50, "emoji": "🍎" }
+        {
+          "kategori": "Soup",
+          "ad": "Ezogelin Soup",
+          "kalori": 173,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Tas Kebab (Beef Stew)",
+          "kalori": 317,
+          "emoji": "🍖"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Noodles (Erişte)",
+          "kalori": 236,
+          "emoji": "🍝"
+        },
+        {
+          "kategori": "Dessert",
+          "ad": "Revani",
+          "kalori": 348,
+          "emoji": "🍰"
+        }
       ]
     },
     {
-      "tarih": "15.12.2025",
+      "tarih": "19.01.2026",
       "gun": "Monday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Ezogelin Soup", "kalori": 173, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Chickpeas", "kalori": 280, "emoji": "🍲" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Salad/Yogurt", "ad": "Tzatziki", "kalori": 120, "emoji": "🥒" }
+        {
+          "kategori": "Soup",
+          "ad": "Keşkek Soup",
+          "kalori": 180,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Chickpeas",
+          "kalori": 280,
+          "emoji": "🍲"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Rice Pilaf with Orzo",
+          "kalori": 330,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Salad/Yogurt",
+          "ad": "Tzatziki (Cacık)",
+          "kalori": 120,
+          "emoji": "🥒"
+        }
       ]
     },
     {
-      "tarih": "16.12.2025",
+      "tarih": "20.01.2026",
       "gun": "Tuesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Wedding Soup (Düğün)", "kalori": 173, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Misket Meatballs", "kalori": 375, "emoji": "🧆" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Fruit", "ad": "Fruit", "kalori": 50, "emoji": "🍎" }
+        {
+          "kategori": "Soup",
+          "ad": "Minestrone Soup",
+          "kalori": 115,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Roasted Chicken",
+          "kalori": 350,
+          "emoji": "🍗"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Bulgur Pilaf",
+          "kalori": 290,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Beverage",
+          "ad": "Ayran",
+          "kalori": 100,
+          "emoji": "🥛"
+        }
       ]
     },
     {
-      "tarih": "17.12.2025",
+      "tarih": "21.01.2026",
       "gun": "Wednesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Yayla Soup (Yogurt Soup)", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Seasonal Stew", "kalori": 280, "emoji": "🍲" },
-        { "kategori": "Side Dish", "ad": "Pasta", "kalori": 290, "emoji": "🍝" },
-        { "kategori": "Dessert", "ad": "Supangle", "kalori": 150, "emoji": "🍫" }
+        {
+          "kategori": "Soup",
+          "ad": "Tutmaç Soup",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Lady's Thigh Meatballs / Puree",
+          "kalori": 410,
+          "emoji": "🧆"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Borek (Pastry)",
+          "kalori": 230,
+          "emoji": "🥐"
+        },
+        {
+          "kategori": "Salad",
+          "ad": "Salad",
+          "kalori": 100,
+          "emoji": "🥗"
+        }
       ]
     },
     {
-      "tarih": "18.12.2025",
+      "tarih": "22.01.2026",
       "gun": "Thursday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Lentil Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Chicken Filet Mignon", "kalori": 350, "emoji": "🍗" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf with Orzo", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Salad", "ad": "Salad", "kalori": 100, "emoji": "🥗" }
+        {
+          "kategori": "Soup",
+          "ad": "Lebeniye Soup",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Seasonal Mixed Vegetables",
+          "kalori": 280,
+          "emoji": "🍲"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Pasta with Neapolitan Sauce",
+          "kalori": 236,
+          "emoji": "🍝"
+        },
+        {
+          "kategori": "Fruit",
+          "ad": "Tangerine",
+          "kalori": 50,
+          "emoji": "🍊"
+        }
       ]
     },
     {
-      "tarih": "19.12.2025",
+      "tarih": "23.01.2026",
       "gun": "Friday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Noodle Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Oven Baked Potato", "kalori": 250, "emoji": "🥔" },
-        { "kategori": "Side Dish", "ad": "Pastry (Börek)", "kalori": 236, "emoji": "🥟" },
-        { "kategori": "Salad/Yogurt", "ad": "Yogurt", "kalori": 100, "emoji": "🥛" }
+        {
+          "kategori": "Soup",
+          "ad": "Strained Lentil Soup",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Meat Doner",
+          "kalori": 450,
+          "emoji": "🥙"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Rice Pilaf with Vermicelli",
+          "kalori": 330,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Dessert",
+          "ad": "Pumpkin Dessert",
+          "kalori": 246,
+          "emoji": "🎃"
+        }
       ]
     },
     {
-      "tarih": "22.12.2025",
+      "tarih": "26.01.2026",
       "gun": "Monday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Ezogelin Soup", "kalori": 173, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Meat (Meatball/Burger)", "kalori": 370, "emoji": "🍔" },
-        { "kategori": "Side Dish", "ad": "Finger Potato Sticks (Ketchup-Mayo)", "kalori": 330, "emoji": "🍟" },
-        { "kategori": "Beverage", "ad": "Fruit Juice", "kalori": 196, "emoji": "🥤" }
+        {
+          "kategori": "Soup",
+          "ad": "Palace Soup (Saray Çorba)",
+          "kalori": 115,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Meat(Meatball) Burger",
+          "kalori": 370,
+          "emoji": "🍔"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Finger Potato Sticks Ketchup-Mayonnaise",
+          "kalori": 330,
+          "emoji": "🍟"
+        },
+        {
+          "kategori": "Beverage",
+          "ad": "Fruit Juice",
+          "kalori": 196,
+          "emoji": "🥤"
+        }
       ]
     },
     {
-      "tarih": "23.12.2025",
+      "tarih": "27.01.2026",
       "gun": "Tuesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Lentil Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Sailor Style Haricot Beans", "kalori": 350, "emoji": "🍲" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Salad/Yogurt", "ad": "Tzatziki", "kalori": 120, "emoji": "🥒" }
+        {
+          "kategori": "Soup",
+          "ad": "Wedding Soup (Düğün Çorbası)",
+          "kalori": 175,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Peas",
+          "kalori": 350,
+          "emoji": "🍲"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Bulgur Pilaf",
+          "kalori": 290,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Salad/Yogurt",
+          "ad": "Yogurt",
+          "kalori": 100,
+          "emoji": "🥛"
+        }
       ]
     },
     {
-      "tarih": "24.12.2025",
+      "tarih": "28.01.2026",
       "gun": "Wednesday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Tutmaç Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Chicken Drumstick", "kalori": 260, "emoji": "🍗" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Beverage", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+        {
+          "kategori": "Soup",
+          "ad": "Cream of Mushroom Soup",
+          "kalori": 160,
+          "emoji": "🍄"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Hasan Pasha Meatballs / Puree",
+          "kalori": 320,
+          "emoji": "🧆"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Noodles (Erişte)",
+          "kalori": 236,
+          "emoji": "🍝"
+        },
+        {
+          "kategori": "Salad",
+          "ad": "Salad",
+          "kalori": 100,
+          "emoji": "🥗"
+        }
       ]
     },
     {
-      "tarih": "25.12.2025",
+      "tarih": "29.01.2026",
       "gun": "Thursday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Chickpea Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Cauliflower with Minced Meat / Chicken Adana", "kalori": 125, "emoji": "🍲" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Dessert", "ad": "Revani", "kalori": 348, "emoji": "🍰" }
+        {
+          "kategori": "Soup",
+          "ad": "Ezogelin Soup",
+          "kalori": 173,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Chicken Fajita / with Puree",
+          "kalori": 350,
+          "emoji": "🌮"
+        },
+        {
+          "kategori": "Side Dish",
+          "ad": "Rice Pilaf with Vermicelli",
+          "kalori": 330,
+          "emoji": "🍚"
+        },
+        {
+          "kategori": "Beverage",
+          "ad": "Ayran",
+          "kalori": 100,
+          "emoji": "🥛"
+        }
       ]
     },
     {
-      "tarih": "26.12.2025",
+      "tarih": "30.01.2026",
       "gun": "Friday",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        { "kategori": "Soup", "ad": "Tarhana Soup", "kalori": 185, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Sauteed Meat", "kalori": 317, "emoji": "🥘" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Salad", "ad": "Salad", "kalori": 100, "emoji": "🥗" }
-      ]
-    },
-    {
-      "tarih": "29.12.2025",
-      "gun": "Monday",
-      "isTatil": false,
-      "aciklama": null,
-      "yemekListesi": [
-        { "kategori": "Soup", "ad": "Lentil Soup", "kalori": 175, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Meat Doner", "kalori": 450, "emoji": "🥙" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Beverage", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
-      ]
-    },
-    {
-      "tarih": "30.12.2025",
-      "gun": "Tuesday",
-      "isTatil": false,
-      "aciklama": null,
-      "yemekListesi": [
-        { "kategori": "Soup", "ad": "Ezogelin Soup", "kalori": 173, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Chickpeas", "kalori": 280, "emoji": "🍲" },
-        { "kategori": "Side Dish", "ad": "Rice Pilaf", "kalori": 330, "emoji": "🍚" },
-        { "kategori": "Salad/Yogurt", "ad": "Tzatziki", "kalori": 120, "emoji": "🥒" }
-      ]
-    },
-    {
-      "tarih": "31.12.2025",
-      "gun": "Wednesday",
-      "isTatil": false,
-      "aciklama": null,
-      "yemekListesi": [
-        { "kategori": "Soup", "ad": "Yayla Soup", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Roast Meatballs", "kalori": 290, "emoji": "🧆" },
-        { "kategori": "Side Dish", "ad": "Bulgur Pilaf", "kalori": 290, "emoji": "🍚" },
-        { "kategori": "Salad", "ad": "Salad", "kalori": 100, "emoji": "🥗" }
-      ]
-    },
-    {
-      "tarih": "01.01.2026",
-      "gun": "Thursday",
-      "isTatil": true,
-      "aciklama": "Public Holiday",
-      "yemekListesi": []
-    },
-    {
-      "tarih": "02.01.2026",
-      "gun": "Friday",
-      "isTatil": false,
-      "aciklama": null,
-      "yemekListesi": [
-        { "kategori": "Soup", "ad": "Chicken Broth Soup", "kalori": 115, "emoji": "🥣" },
-        { "kategori": "Main Course", "ad": "Green Beans", "kalori": 200, "emoji": "🫒" },
-        { "kategori": "Side Dish", "ad": "Spaghetti with Sauce", "kalori": 290, "emoji": "🍝" },
-        { "kategori": "Dessert", "ad": "Compote", "kalori": 190, "emoji": "🍹" }
+        {
+          "kategori": "Soup",
+          "ad": "Vermicelli Soup",
+          "kalori": 115,
+          "emoji": "🥣"
+        },
+        {
+          "kategori": "Main Course",
+          "ad": "Steamed Fish",
+          "kalori": 239,
+          "emoji": "🐟"
+        },
+        {
+          "kategori": "Side Dish/Meze",
+          "ad": "Bean Salad (Piyaz)",
+          "kalori": 162,
+          "emoji": "🥗"
+        },
+        {
+          "kategori": "Dessert",
+          "ad": "Tahini Halva",
+          "kalori": 450,
+          "emoji": "🍯"
+        }
       ]
     }
   ]
