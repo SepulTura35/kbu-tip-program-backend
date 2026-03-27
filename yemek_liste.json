@@ -644,3 +644,269 @@
     }
   ]
 }
+
+{
+  "ay": "Mart",
+  "yil": 2026,
+  "gunlukMenuler": [
+    {
+      "tarih": "02.03.2026",
+      "gun": "Pazartesi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Ezogelin Çorba", "kalori": 173, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Tavuk Sote", "kalori": 350, "emoji": "🍗" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Şehriye Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Tatlı/Meyve", "ad": "Meyve", "kalori": 50, "emoji": "🍎" }
+      ]
+    },
+    {
+      "tarih": "03.03.2026",
+      "gun": "Salı",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Tarhana Çorba", "kalori": 185, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Sebzeli Köfte", "kalori": 375, "emoji": "🍖" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Makarna", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Salata", "ad": "Mevsim Salata", "kalori": 50, "emoji": "🥗" }
+      ]
+    },
+    {
+      "tarih": "04.03.2026",
+      "gun": "Çarşamba",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Mercimek Çorba", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Tavuk Döner", "kalori": 300, "emoji": "🍗" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "05.03.2026",
+      "gun": "Perşembe",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Mercimek Çorba", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Et Sote", "kalori": 317, "emoji": "🥩" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Bulgur Pilavı", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Tatlı", "ad": "Baklava", "kalori": 329, "emoji": "🍰" }
+      ]
+    },
+    {
+      "tarih": "06.03.2026",
+      "gun": "Cuma",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Saray Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Özbek Pilavı", "kalori": 336, "emoji": "🍛" },
+        { "kategori": "Salata", "ad": "Çoban Salata", "kalori": 100, "emoji": "🥗" },
+        { "kategori": "Tatlı/İçecek", "ad": "Ayran + Tulumba", "kalori": 350, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "09.03.2026",
+      "gun": "Pazartesi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Yayla Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Püreli Rosto Köfte", "kalori": 410, "emoji": "🍖" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Spagetti", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Salata", "ad": "Mevsim Salata", "kalori": 50, "emoji": "🥗" }
+      ]
+    },
+    {
+      "tarih": "10.03.2026",
+      "gun": "Salı",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Saray Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Fırın Patates", "kalori": 250, "emoji": "🥔" },
+        { "kategori": "Yan Ürün", "ad": "Börek", "kalori": 230, "emoji": "🥐" },
+        { "kategori": "İçecek", "ad": "Cacık", "kalori": 120, "emoji": "🥒" }
+      ]
+    },
+    {
+      "tarih": "11.03.2026",
+      "gun": "Çarşamba",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Tutmaç Çorba", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Tavuk Kavurma", "kalori": 350, "emoji": "🍗" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "12.03.2026",
+      "gun": "Perşembe",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Ezogelin Çorba", "kalori": 173, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Et Döner", "kalori": 450, "emoji": "🥩" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Tatlı", "ad": "Kadayıf", "kalori": 238, "emoji": "🍰" }
+      ]
+    },
+    {
+      "tarih": "13.03.2026",
+      "gun": "Cuma",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Mercimek Çorba", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Nohutlu Pilav Üstü Tiftik Tavuk", "kalori": 370, "emoji": "🍗" },
+        { "kategori": "Yan Ürün", "ad": "Çiğ Köfte + Turşu", "kalori": 100, "emoji": "🌯" },
+        { "kategori": "İçecek", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "16.03.2026",
+      "gun": "Pazartesi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Toyga Çorbası", "kalori": 180, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Misket Köfte", "kalori": 375, "emoji": "🍖" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Makarna", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Salata", "ad": "Mevsim Salata", "kalori": 50, "emoji": "🥗" }
+      ]
+    },
+    {
+      "tarih": "17.03.2026",
+      "gun": "Salı",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Saray Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Etli Kuru Fasulye", "kalori": 350, "emoji": "🍲" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Cacık", "kalori": 120, "emoji": "🥒" }
+      ]
+    },
+    {
+      "tarih": "18.03.2026",
+      "gun": "Çarşamba",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Tarhana Çorba", "kalori": 185, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Arap Tava", "kalori": 180, "emoji": "🍲" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Bulgur Pilavı", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Tatlı", "ad": "Sütlaç", "kalori": 285, "emoji": "🍮" }
+      ]
+    },
+    {
+      "tarih": "19.03.2026",
+      "gun": "Perşembe",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Mercimek Çorba", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Tavuk Döner", "kalori": 300, "emoji": "🍗" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "20.03.2026",
+      "gun": "Cuma",
+      "isTatil": true,
+      "aciklama": "Resmi Tatil",
+      "yemekListesi": []
+    },
+    {
+      "tarih": "23.03.2026",
+      "gun": "Pazartesi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Ezogelin Çorba", "kalori": 173, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Fırın Köfte", "kalori": 290, "emoji": "🍖" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Erişte", "kalori": 236, "emoji": "🍝" },
+        { "kategori": "Salata", "ad": "Mevsim Salata", "kalori": 50, "emoji": "🥗" }
+      ]
+    },
+    {
+      "tarih": "24.03.2026",
+      "gun": "Salı",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Tarhana Çorba", "kalori": 185, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Tavuk Fajita", "kalori": 350, "emoji": "🍗" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "25.03.2026",
+      "gun": "Çarşamba",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Mercimek Çorbası", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Nohut", "kalori": 280, "emoji": "🍲" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Pirinç Pilavı", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Cacık", "kalori": 120, "emoji": "🥒" }
+      ]
+    },
+    {
+      "tarih": "26.03.2026",
+      "gun": "Perşembe",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Lebeniye Çorba", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Taze Fasulye / Tavuk Adana", "kalori": 435, "emoji": "🍲" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Bulgur Pilavı", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "İçecek", "ad": "Yoğurt", "kalori": 100, "emoji": "🥛" }
+      ]
+    },
+    {
+      "tarih": "27.03.2026",
+      "gun": "Cuma",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Minestrone Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Orman Kebabı", "kalori": 286, "emoji": "🍖" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Makarna", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Tatlı/Meyve", "ad": "Meyve", "kalori": 50, "emoji": "🍎" }
+      ]
+    },
+    {
+      "tarih": "30.03.2026",
+      "gun": "Pazartesi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Şehriye Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Etli Mevsim Türlü", "kalori": 280, "emoji": "🍲" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Soslu Spagetti", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Tatlı", "ad": "Elma Kompostosu", "kalori": 190, "emoji": "🍏" }
+      ]
+    },
+    {
+      "tarih": "31.03.2026",
+      "gun": "Salı",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Çorba", "ad": "Tel Şehriye Tavuk Çorba", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Ana Yemek", "ad": "Bezelye", "kalori": 350, "emoji": "🍲" },
+        { "kategori": "Yan Ürün/Yöresel", "ad": "Bulgur Pilavı", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Salata", "ad": "Salata", "kalori": 100, "emoji": "🥗" }
+      ]
+    }
+  ]
+}
