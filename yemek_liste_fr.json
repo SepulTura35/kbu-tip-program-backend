@@ -1,645 +1,264 @@
 {
-  "ay": "Janvier",
+  "ay": "Mars",
   "yil": 2026,
   "gunlukMenuler": [
     {
-      "tarih": "05.01.2026",
+      "tarih": "02.03.2026",
       "gun": "Lundi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Velouté de Lentilles",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Accompagnement/Local",
-          "ad": "Riz à la Mengen",
-          "kalori": 150,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Haricots Rouges (Barbunya)",
-          "kalori": 280,
-          "emoji": "🍲"
-        },
-        {
-          "kategori": "Salade/Yaourt",
-          "ad": "Tzatziki (Cacık)",
-          "kalori": 120,
-          "emoji": "🥒"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Ezogelin", "kalori": 173, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Poulet Sauté", "kalori": 350, "emoji": "🍗" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf aux Vermicelles", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Dessert/Fruit", "ad": "Fruit", "kalori": 50, "emoji": "🍎" }
       ]
     },
     {
-      "tarih": "06.01.2026",
+      "tarih": "03.03.2026",
       "gun": "Mardi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe de Poulet aux Vermicelles",
-          "kalori": 115,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Pommes de Terre Rôties",
-          "kalori": 250,
-          "emoji": "🥔"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Spaghetti",
-          "kalori": 236,
-          "emoji": "🍝"
-        },
-        {
-          "kategori": "Salade",
-          "ad": "Salade",
-          "kalori": 100,
-          "emoji": "🥗"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Tarhana", "kalori": 185, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Boulettes de Viande aux Légumes", "kalori": 375, "emoji": "🍖" },
+        { "kategori": "Accompagnement/Régional", "ad": "Pâtes", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Salade", "ad": "Salade de Saison", "kalori": 50, "emoji": "🥗" }
       ]
     },
     {
-      "tarih": "07.01.2026",
+      "tarih": "04.03.2026",
       "gun": "Mercredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Ezogelin",
-          "kalori": 173,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Boulettes de Viande Islim (Aubergine)",
-          "kalori": 308,
-          "emoji": "🧆"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Pilaf de Boulgour aux Légumes",
-          "kalori": 290,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Boisson/Dessert",
-          "ad": "Compote",
-          "kalori": 190,
-          "emoji": "🍒"
-        }
+        { "kategori": "Soupe", "ad": "Soupe de Lentilles", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Döner de Poulet", "kalori": 300, "emoji": "🍗" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "08.01.2026",
+      "tarih": "05.03.2026",
       "gun": "Jeudi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Velouté de Champignons",
-          "kalori": 160,
-          "emoji": "🍄"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Haricots Blancs Façon Marin",
-          "kalori": 350,
-          "emoji": "🍲"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Riz Pilaf",
-          "kalori": 330,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Salade/Yaourt",
-          "ad": "Yaourt",
-          "kalori": 100,
-          "emoji": "🥛"
-        }
+        { "kategori": "Soupe", "ad": "Soupe de Lentilles", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Bœuf Sauté", "kalori": 317, "emoji": "🥩" },
+        { "kategori": "Accompagnement/Régional", "ad": "Boulgour Pilaf", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Dessert", "ad": "Baklava", "kalori": 329, "emoji": "🍰" }
       ]
     },
     {
-      "tarih": "09.01.2026",
+      "tarih": "06.03.2026",
       "gun": "Vendredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Tarhana",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Poulet Effiloché sur Riz aux Pois Chiches",
-          "kalori": 370,
-          "emoji": "🍗"
-        },
-        {
-          "kategori": "Entrée/Mezzé",
-          "ad": "Boulettes de Boulgour Épicées (Çiğ Köfte)",
-          "kalori": 270,
-          "emoji": "🌯"
-        },
-        {
-          "kategori": "Boisson",
-          "ad": "Ayran",
-          "kalori": 100,
-          "emoji": "🥛"
-        }
+        { "kategori": "Soupe", "ad": "Soupe du Palais", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Pilaf Ouzbek", "kalori": 336, "emoji": "🍛" },
+        { "kategori": "Salade", "ad": "Salade du Berger", "kalori": 100, "emoji": "🥗" },
+        { "kategori": "Dessert/Boisson", "ad": "Ayran + Tulumba", "kalori": 350, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "12.01.2026",
+      "tarih": "09.03.2026",
       "gun": "Lundi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe aux Vermicelles",
-          "kalori": 115,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Döner de Poulet / Frites",
-          "kalori": 300,
-          "emoji": "🥙"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Riz Pilaf",
-          "kalori": 330,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Boisson",
-          "ad": "Ayran",
-          "kalori": 100,
-          "emoji": "🥛"
-        }
+        { "kategori": "Soupe", "ad": "Soupe au Yaourt", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Boulettes Rôties avec Purée", "kalori": 410, "emoji": "🍖" },
+        { "kategori": "Accompagnement/Régional", "ad": "Spaghetti", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Salade", "ad": "Salade de Saison", "kalori": 50, "emoji": "🥗" }
       ]
     },
     {
-      "tarih": "13.01.2026",
+      "tarih": "10.03.2026",
       "gun": "Mardi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe de Mariage (Düğün)",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Haricots Verts / Nuggets-Frites",
-          "kalori": 435,
-          "emoji": "🍲"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Pilaf de Boulgour",
-          "kalori": 290,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Dessert",
-          "ad": "Supangle (Crème au Chocolat)",
-          "kalori": 150,
-          "emoji": "🍫"
-        }
+        { "kategori": "Soupe", "ad": "Soupe du Palais", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Pommes de Terre au Four", "kalori": 250, "emoji": "🥔" },
+        { "kategori": "Accompagnement", "ad": "Börek", "kalori": 230, "emoji": "🥐" },
+        { "kategori": "Boisson", "ad": "Cacık", "kalori": 120, "emoji": "🥒" }
       ]
     },
     {
-      "tarih": "14.01.2026",
+      "tarih": "11.03.2026",
       "gun": "Mercredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe de Lentilles",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Boulettes de Viande Izmir",
-          "kalori": 350,
-          "emoji": "🧆"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Pâtes",
-          "kalori": 236,
-          "emoji": "🍝"
-        },
-        {
-          "kategori": "Salade",
-          "ad": "Salade",
-          "kalori": 100,
-          "emoji": "🥗"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Tutmaç", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Poulet Rôti", "kalori": 350, "emoji": "🍗" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "15.01.2026",
+      "tarih": "12.03.2026",
       "gun": "Jeudi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Toyga (Yaourt et Blé)",
-          "kalori": 180,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Ragoût Arabe (Arap Tava)",
-          "kalori": 180,
-          "emoji": "🥘"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Beurek (Feuilleté)",
-          "kalori": 236,
-          "emoji": "🥐"
-        },
-        {
-          "kategori": "Boisson",
-          "ad": "Jus de Fruit / Ayran",
-          "kalori": 148,
-          "emoji": "🥤"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Ezogelin", "kalori": 173, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Döner de Bœuf", "kalori": 450, "emoji": "🥩" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Dessert", "ad": "Kadayıf", "kalori": 238, "emoji": "🍰" }
       ]
     },
     {
-      "tarih": "16.01.2026",
+      "tarih": "13.03.2026",
       "gun": "Vendredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Ezogelin",
-          "kalori": 173,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Tas Kebab (Ragoût de Bœuf)",
-          "kalori": 317,
-          "emoji": "🍖"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Nouilles (Erişte)",
-          "kalori": 236,
-          "emoji": "🍝"
-        },
-        {
-          "kategori": "Dessert",
-          "ad": "Revani (Gâteau de Semoule)",
-          "kalori": 348,
-          "emoji": "🍰"
-        }
+        { "kategori": "Soupe", "ad": "Soupe de Lentilles", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Poulet Effiloché sur Riz aux Pois Chiches", "kalori": 370, "emoji": "🍗" },
+        { "kategori": "Accompagnement", "ad": "Çiğ Köfte + Cornichons", "kalori": 100, "emoji": "🌯" },
+        { "kategori": "Boisson", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "19.01.2026",
+      "tarih": "16.03.2026",
       "gun": "Lundi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Keşkek (Blé Concassé)",
-          "kalori": 180,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Pois Chiches",
-          "kalori": 280,
-          "emoji": "🍲"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Riz Pilaf aux Langues d'Oiseau",
-          "kalori": 330,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Salade/Yaourt",
-          "ad": "Tzatziki (Cacık)",
-          "kalori": 120,
-          "emoji": "🥒"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Toyga", "kalori": 180, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Boulettes de Viande", "kalori": 375, "emoji": "🍖" },
+        { "kategori": "Accompagnement/Régional", "ad": "Pâtes", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Salade", "ad": "Salade de Saison", "kalori": 50, "emoji": "🥗" }
       ]
     },
     {
-      "tarih": "20.01.2026",
+      "tarih": "17.03.2026",
       "gun": "Mardi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Minestrone",
-          "kalori": 115,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Poulet Sauté (Kavurma)",
-          "kalori": 350,
-          "emoji": "🍗"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Pilaf de Boulgour",
-          "kalori": 290,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Boisson",
-          "ad": "Ayran",
-          "kalori": 100,
-          "emoji": "🥛"
-        }
+        { "kategori": "Soupe", "ad": "Soupe du Palais", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Haricots Blancs à la Viande", "kalori": 350, "emoji": "🍲" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Cacık", "kalori": 120, "emoji": "🥒" }
       ]
     },
     {
-      "tarih": "21.01.2026",
+      "tarih": "18.03.2026",
       "gun": "Mercredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Tutmaç (Lentilles et Nouilles)",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Boulettes Kadınbudu / Purée",
-          "kalori": 410,
-          "emoji": "🧆"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Beurek (Feuilleté)",
-          "kalori": 230,
-          "emoji": "🥐"
-        },
-        {
-          "kategori": "Salade",
-          "ad": "Salade",
-          "kalori": 100,
-          "emoji": "🥗"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Tarhana", "kalori": 185, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Kebab en Plateau à l’Arabe", "kalori": 180, "emoji": "🍲" },
+        { "kategori": "Accompagnement/Régional", "ad": "Boulgour Pilaf", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Dessert", "ad": "Riz au Lait", "kalori": 285, "emoji": "🍮" }
       ]
     },
     {
-      "tarih": "22.01.2026",
+      "tarih": "19.03.2026",
       "gun": "Jeudi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Lebeniye",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Ragoût de Légumes de Saison",
-          "kalori": 280,
-          "emoji": "🍲"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Pâtes Sauce Napolitaine",
-          "kalori": 236,
-          "emoji": "🍝"
-        },
-        {
-          "kategori": "Fruit",
-          "ad": "Mandarine",
-          "kalori": 50,
-          "emoji": "🍊"
-        }
+        { "kategori": "Soupe", "ad": "Soupe de Lentilles", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Döner de Poulet", "kalori": 300, "emoji": "🍗" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "23.01.2026",
+      "tarih": "20.03.2026",
       "gun": "Vendredi",
-      "isTatil": false,
-      "aciklama": null,
-      "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Velouté de Lentilles",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Döner de Viande",
-          "kalori": 450,
-          "emoji": "🥙"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Riz Pilaf aux Vermicelles",
-          "kalori": 330,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Dessert",
-          "ad": "Dessert à la Citrouille (Kabak Tatlısı)",
-          "kalori": 246,
-          "emoji": "🎃"
-        }
-      ]
+      "isTatil": true,
+      "aciklama": "Jour férié",
+      "yemekListesi": []
     },
     {
-      "tarih": "26.01.2026",
+      "tarih": "23.03.2026",
       "gun": "Lundi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe du Palais (Saray)",
-          "kalori": 115,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Burger de Viande (Kofte)",
-          "kalori": 370,
-          "emoji": "🍔"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Bâtonnets de Pommes de Terre Ketchup-Mayonnaise",
-          "kalori": 330,
-          "emoji": "🍟"
-        },
-        {
-          "kategori": "Boisson",
-          "ad": "Jus de Fruit",
-          "kalori": 196,
-          "emoji": "🥤"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Ezogelin", "kalori": 173, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Boulettes au Four", "kalori": 290, "emoji": "🍖" },
+        { "kategori": "Accompagnement/Régional", "ad": "Erişte (Nouilles Maison)", "kalori": 236, "emoji": "🍝" },
+        { "kategori": "Salade", "ad": "Salade de Saison", "kalori": 50, "emoji": "🥗" }
       ]
     },
     {
-      "tarih": "27.01.2026",
+      "tarih": "24.03.2026",
       "gun": "Mardi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe de Mariage (Düğün)",
-          "kalori": 175,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Petits Pois",
-          "kalori": 350,
-          "emoji": "🍲"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Pilaf de Boulgour",
-          "kalori": 290,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Salade/Yaourt",
-          "ad": "Yaourt",
-          "kalori": 100,
-          "emoji": "🥛"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Tarhana", "kalori": 185, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Fajitas de Poulet", "kalori": 350, "emoji": "🍗" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Ayran", "kalori": 100, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "28.01.2026",
+      "tarih": "25.03.2026",
       "gun": "Mercredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Velouté de Champignons",
-          "kalori": 160,
-          "emoji": "🍄"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Boulettes Hasan Pacha / Purée",
-          "kalori": 320,
-          "emoji": "🧆"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Nouilles (Erişte)",
-          "kalori": 236,
-          "emoji": "🍝"
-        },
-        {
-          "kategori": "Salade",
-          "ad": "Salade",
-          "kalori": 100,
-          "emoji": "🥗"
-        }
+        { "kategori": "Soupe", "ad": "Soupe de Lentilles", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Pois Chiches", "kalori": 280, "emoji": "🍲" },
+        { "kategori": "Accompagnement/Régional", "ad": "Riz Pilaf", "kalori": 330, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Cacık", "kalori": 120, "emoji": "🥒" }
       ]
     },
     {
-      "tarih": "29.01.2026",
+      "tarih": "26.03.2026",
       "gun": "Jeudi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe Ezogelin",
-          "kalori": 173,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Fajitas de Poulet / avec Purée",
-          "kalori": 350,
-          "emoji": "🌮"
-        },
-        {
-          "kategori": "Accompagnement",
-          "ad": "Riz Pilaf aux Vermicelles",
-          "kalori": 330,
-          "emoji": "🍚"
-        },
-        {
-          "kategori": "Boisson",
-          "ad": "Ayran",
-          "kalori": 100,
-          "emoji": "🥛"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Lebeniye", "kalori": 175, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Haricots Verts / Poulet Adana", "kalori": 435, "emoji": "🍲" },
+        { "kategori": "Accompagnement/Régional", "ad": "Boulgour Pilaf", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Boisson", "ad": "Yaourt", "kalori": 100, "emoji": "🥛" }
       ]
     },
     {
-      "tarih": "30.01.2026",
+      "tarih": "27.03.2026",
       "gun": "Vendredi",
       "isTatil": false,
       "aciklama": null,
       "yemekListesi": [
-        {
-          "kategori": "Soupe",
-          "ad": "Soupe aux Vermicelles",
-          "kalori": 115,
-          "emoji": "🥣"
-        },
-        {
-          "kategori": "Plat Principal",
-          "ad": "Casserole de Poisson (Buğulama)",
-          "kalori": 239,
-          "emoji": "🐟"
-        },
-        {
-          "kategori": "Accompagnement/Mezzé",
-          "ad": "Salade de Haricots Blancs (Piyaz)",
-          "kalori": 162,
-          "emoji": "🥗"
-        },
-        {
-          "kategori": "Dessert",
-          "ad": "Halva au Tahini",
-          "kalori": 450,
-          "emoji": "🍯"
-        }
+        { "kategori": "Soupe", "ad": "Soupe Minestrone", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Kebab Forestier", "kalori": 286, "emoji": "🍖" },
+        { "kategori": "Accompagnement/Régional", "ad": "Pâtes", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Dessert/Fruit", "ad": "Fruit", "kalori": 50, "emoji": "🍎" }
+      ]
+    },
+    {
+      "tarih": "30.03.2026",
+      "gun": "Lundi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Soupe", "ad": "Soupe aux Vermicelles", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Mélange de Légumes avec Viande", "kalori": 280, "emoji": "🍲" },
+        { "kategori": "Accompagnement/Régional", "ad": "Spaghetti à la Sauce", "kalori": 290, "emoji": "🍝" },
+        { "kategori": "Dessert", "ad": "Compote de Pomme", "kalori": 190, "emoji": "🍏" }
+      ]
+    },
+    {
+      "tarih": "31.03.2026",
+      "gun": "Mardi",
+      "isTatil": false,
+      "aciklama": null,
+      "yemekListesi": [
+        { "kategori": "Soupe", "ad": "Soupe de Poulet aux Vermicelles", "kalori": 115, "emoji": "🥣" },
+        { "kategori": "Plat Principal", "ad": "Petits Pois", "kalori": 350, "emoji": "🍲" },
+        { "kategori": "Accompagnement/Régional", "ad": "Boulgour Pilaf", "kalori": 290, "emoji": "🍚" },
+        { "kategori": "Salade", "ad": "Salade", "kalori": 100, "emoji": "🥗" }
       ]
     }
   ]
